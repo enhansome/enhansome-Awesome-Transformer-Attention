@@ -47,7 +47,7 @@
             "last_commit": "2026-08-12T07:01:51Z",
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3264
+            "stars": 3266
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-13T10:32:32Z",
             "owner": "Yutong-Zhou-cv",
             "repo": "Awesome-Text-to-Image",
-            "stars": 2442
+            "stars": 2441
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-04-16T16:28:04Z",
             "owner": "ActiveVisionLab",
             "repo": "Awesome-LLM-3D",
-            "stars": 2247
+            "stars": 2248
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-06-21T11:56:54Z",
             "owner": "fahadshamshad",
             "repo": "awesome-transformers-in-medical-imaging",
-            "stars": 1296
+            "stars": 1295
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12669
+            "stars": 12670
           }
         },
         {
@@ -1010,7 +1010,7 @@
             "last_commit": "2024-11-17T08:14:11Z",
             "owner": "LeapLabTHU",
             "repo": "Agent-Attention",
-            "stars": 669
+            "stars": 668
           }
         },
         {
@@ -2024,7 +2024,7 @@
             "last_commit": "2023-07-11T03:03:13Z",
             "owner": "raoyongming",
             "repo": "DynamicViT",
-            "stars": 669
+            "stars": 668
           }
         },
         {
@@ -2996,7 +2996,7 @@
             "last_commit": "2023-07-11T03:03:13Z",
             "owner": "raoyongming",
             "repo": "DynamicViT",
-            "stars": 669
+            "stars": 668
           }
         },
         {
@@ -3254,7 +3254,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34172
+            "stars": 34175
           }
         },
         {
@@ -3268,7 +3268,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32239
           }
         },
         {
@@ -3310,7 +3310,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12669
+            "stars": 12670
           }
         },
         {
@@ -3436,7 +3436,7 @@
             "last_commit": "2025-08-04T17:58:52Z",
             "owner": "apple",
             "repo": "ml-aim",
-            "stars": 1425
+            "stars": 1424
           }
         },
         {
@@ -5173,7 +5173,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12669
+            "stars": 12670
           }
         },
         {
@@ -5395,7 +5395,7 @@
             "last_commit": "2025-02-13T02:19:19Z",
             "owner": "hustvl",
             "repo": "Vim",
-            "stars": 3896
+            "stars": 3897
           }
         },
         {
@@ -5423,7 +5423,7 @@
             "last_commit": "2025-03-09T11:15:26Z",
             "owner": "yuweihao",
             "repo": "MambaOut",
-            "stars": 2705
+            "stars": 2704
           }
         },
         {
@@ -5653,7 +5653,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12669
+            "stars": 12670
           }
         },
         {
@@ -5667,7 +5667,7 @@
             "last_commit": "2024-01-24T05:59:39Z",
             "owner": "hila-chefer",
             "repo": "Transformer-Explainability",
-            "stars": 2013
+            "stars": 2014
           }
         },
         {
@@ -6705,7 +6705,7 @@
                 "last_commit": "2024-07-31T13:56:21Z",
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2830
+                "stars": 2829
               }
             },
             {
@@ -8092,7 +8092,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32876
+                "stars": 32879
               }
             },
             {
@@ -8106,7 +8106,7 @@
                 "last_commit": "2025-02-26T18:29:03Z",
                 "owner": "AILab-CVC",
                 "repo": "YOLO-World",
-                "stars": 6510
+                "stars": 6511
               }
             },
             {
@@ -9043,7 +9043,7 @@
                 "last_commit": "2024-01-31T15:06:58Z",
                 "owner": "wgcban",
                 "repo": "ChangeFormer",
-                "stars": 616
+                "stars": 617
               }
             }
           ]
@@ -9231,7 +9231,7 @@
             "last_commit": "2026-02-05T16:49:17Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9373
+            "stars": 9374
           }
         },
         {
@@ -9245,7 +9245,7 @@
             "last_commit": "2024-08-02T15:50:33Z",
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3618
+            "stars": 3619
           }
         },
         {
@@ -9587,7 +9587,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8178
+            "stars": 8179
           }
         },
         {
@@ -9643,7 +9643,7 @@
             "last_commit": "2023-12-11T13:32:11Z",
             "owner": "noahzn",
             "repo": "Lite-Mono",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -9842,7 +9842,7 @@
                 "last_commit": "2024-09-18T17:46:55Z",
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54684
+                "stars": 54683
               }
             },
             {
@@ -9856,7 +9856,7 @@
                 "last_commit": "2024-09-05T06:07:32Z",
                 "owner": "IDEA-Research",
                 "repo": "Grounded-Segment-Anything",
-                "stars": 17703
+                "stars": 17704
               }
             },
             {
@@ -9870,7 +9870,7 @@
                 "last_commit": "2026-08-15T09:25:25Z",
                 "owner": "autogluon",
                 "repo": "autogluon",
-                "stars": 10597
+                "stars": 10598
               }
             },
             {
@@ -12409,7 +12409,7 @@
                 "last_commit": "2026-04-21T16:42:35Z",
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1045
+                "stars": 1046
               }
             },
             {
@@ -15410,7 +15410,7 @@
                 "last_commit": "2026-07-02T03:20:41Z",
                 "owner": "OpenGVLab",
                 "repo": "InternVideo",
-                "stars": 2359
+                "stars": 2360
               }
             },
             {
@@ -15438,7 +15438,7 @@
                 "last_commit": "2023-12-06T12:51:53Z",
                 "owner": "sallymmx",
                 "repo": "ActionCLIP",
-                "stars": 615
+                "stars": 616
               }
             },
             {
@@ -15935,7 +15935,7 @@
                 "last_commit": "2025-02-27T23:15:27Z",
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4087
+                "stars": 4089
               }
             },
             {
@@ -15963,7 +15963,7 @@
                 "last_commit": "2024-10-08T05:04:52Z",
                 "owner": "OpenGVLab",
                 "repo": "VideoMAEv2",
-                "stars": 812
+                "stars": 813
               }
             },
             {
@@ -16089,7 +16089,7 @@
                 "last_commit": "2023-12-08T11:28:47Z",
                 "owner": "XinyuSun",
                 "repo": "MME",
-                "stars": 51
+                "stars": 52
               }
             },
             {
@@ -16453,7 +16453,7 @@
                 "last_commit": "2025-06-09T19:35:49Z",
                 "owner": "aleflabo",
                 "repo": "PREGO",
-                "stars": 34
+                "stars": 35
               }
             }
           ]
@@ -16537,7 +16537,7 @@
                 "last_commit": "2026-08-14T22:49:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38538
+                "stars": 38545
               }
             }
           ]
@@ -16547,7 +16547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:01:41.808Z",
+    "last_updated": "2026-08-16T14:03:04.351Z",
     "original_repository": "cmhungsteve/Awesome-Transformer-Attention",
     "original_repository_sha": "0653f4a10231dd2be1f96e781e73f1554233d1fc",
     "enhanced_repository": "enhansome/enhansome-Awesome-Transformer-Attention",
