@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17983
+            "stars": 17984
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17983
+            "stars": 17984
           }
         },
         {
@@ -3479,7 +3479,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34195
+                    "stars": 34196
                   }
                 },
                 {
@@ -6461,7 +6461,7 @@
                     "last_commit": "2024-03-12T15:58:25Z",
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15355
+                    "stars": 15354
                   }
                 },
                 {
@@ -10517,7 +10517,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54708
+                    "stars": 54709
                   }
                 },
                 {
@@ -10544,7 +10544,7 @@
                     "archived": false,
                     "id": 199509705,
                     "language": "Python",
-                    "last_commit": "2026-08-17T17:54:36Z",
+                    "last_commit": "2026-08-19T13:11:29Z",
                     "owner": "autogluon",
                     "repo": "autogluon",
                     "stars": 10609
@@ -11064,7 +11064,7 @@
                     "last_commit": "2025-04-10T11:32:40Z",
                     "owner": "WalBouss",
                     "repo": "GEM",
-                    "stars": 140
+                    "stars": 139
                   }
                 },
                 {
@@ -17664,7 +17664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:00.391Z",
+    "last_updated": "2026-08-19T14:18:56.527Z",
     "original_repository": "cmhungsteve/Awesome-Transformer-Attention",
     "original_repository_id": 406653146,
     "original_repository_sha": "0653f4a10231dd2be1f96e781e73f1554233d1fc",

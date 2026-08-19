@@ -135,8 +135,8 @@ If you find this repository useful, please consider citing this list:
 
 ## Survey
 
-* "A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise", arXiv, 2023 (*Tencent*). \[[Paper](https://arxiv.org/abs/2312.12436)][GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,983 | 🐛 111 | 📅 2026-08-14]
-* "A Survey on Multimodal Large Language Models", arXiv, 2023 (*USTC*). \[[Paper](https://arxiv.org/abs/2306.13549)]\[[GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,983 | 🐛 111 | 📅 2026-08-14]
+* "A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise", arXiv, 2023 (*Tencent*). \[[Paper](https://arxiv.org/abs/2312.12436)][GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,984 | 🐛 111 | 📅 2026-08-14]
+* "A Survey on Multimodal Large Language Models", arXiv, 2023 (*USTC*). \[[Paper](https://arxiv.org/abs/2306.13549)]\[[GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,984 | 🐛 111 | 📅 2026-08-14]
 * "Video Understanding with Large Language Models: A Survey", arXiv, 2023 (*University of Rochester*). \[[Paper](https://arxiv.org/abs/2312.17432)]\[[GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,267 | 🐛 7 | 📅 2026-08-12]
 * "Vision-Language Models for Vision Tasks: A Survey", arXiv, 2023 (*?*). \[[Paper](https://arxiv.org/abs/2304.00685)]\[[GitHub (in construction)](https://github.com/jingyi0000/VLM_survey) ⭐ 3,127 | 🐛 3 | 📅 2025-10-14]
 * "Attention mechanisms in computer vision: A survey", Computational Visual Media, 2022 (*Tsinghua University, China*). \[[Paper](https://arxiv.org/abs/2111.07624)]\[[Springer](https://link.springer.com/article/10.1007/s41095-022-0271-y)]\[[Github](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) ⭐ 2,840 | 🐛 5 | 🌐 Python | 📅 2024-10-20]
@@ -599,7 +599,7 @@ If you find this repository useful, please consider citing this list:
 
 #### Training + Transformer
 
-* **CLIP**: "Learning Transferable Visual Models From Natural Language Supervision", ICML, 2021 (*OpenAI*). \[[Paper](https://arxiv.org/abs/2103.00020)]\[[PyTorch](https://github.com/openai/CLIP) ⭐ 34,195 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25]
+* **CLIP**: "Learning Transferable Visual Models From Natural Language Supervision", ICML, 2021 (*OpenAI*). \[[Paper](https://arxiv.org/abs/2103.00020)]\[[PyTorch](https://github.com/openai/CLIP) ⭐ 34,196 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25]
 * **data2vec**: "data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language", ICML, 2022 (*Meta*). \[[Paper](https://arxiv.org/abs/2202.03555)]\[[PyTorch](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec) ⚠️ Archived]
 * **BEiT**: "BEiT: BERT Pre-Training of Image Transformers", ICLR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2106.08254)]\[[PyTorch](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,192 | 🐛 683 | 🌐 Python | 📅 2026-01-23]
 * **BEiT-v2**: "BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers", arXiv, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2208.06366)]\[[PyTorch](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,192 | 🐛 683 | 🌐 Python | 📅 2026-01-23]
@@ -1609,9 +1609,9 @@ If you find this repository useful, please consider citing this list:
 ### Other Segmentation Tasks
 
 * Any-X/Every-X:
-  * **SAM**: "Segment Anything", ICCV, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2304.02643)]\[[PyTorch](https://github.com/facebookresearch/segment-anything) ⭐ 54,708 | 🐛 594 | 🌐 Jupyter Notebook | 📅 2024-09-18]\[[Website](https://segment-anything.com/)]
+  * **SAM**: "Segment Anything", ICCV, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2304.02643)]\[[PyTorch](https://github.com/facebookresearch/segment-anything) ⭐ 54,709 | 🐛 594 | 🌐 Jupyter Notebook | 📅 2024-09-18]\[[Website](https://segment-anything.com/)]
   * **Grounded-SAM**: "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks", arXiv, 2024 (*IDEA*). \[[Paper](https://arxiv.org/abs/2401.14159)]\[[PyTorch](https://github.com/IDEA-Research/Grounded-Segment-Anything) ⭐ 17,708 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05]
-  * **Conv-LoRA**: "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model", ICLR, 2024 (*Amazon*). \[[Paper](https://arxiv.org/abs/2401.17868)]\[[PyTorch](https://github.com/autogluon/autogluon) ⭐ 10,609 | 🐛 397 | 🌐 Python | 📅 2026-08-17]
+  * **Conv-LoRA**: "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model", ICLR, 2024 (*Amazon*). \[[Paper](https://arxiv.org/abs/2401.17868)]\[[PyTorch](https://github.com/autogluon/autogluon) ⭐ 10,609 | 🐛 398 | 🌐 Python | 📅 2026-08-19]
   * **FastSAM**: "Fast Segment Anything", arXiv, 2023 (*CAS*). \[[Paper](https://arxiv.org/abs/2306.12156)]\[[PyTorch](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,393 | 🐛 146 | 🌐 Python | 📅 2024-07-30]
   * **MobileSAM**: "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications", arXiv, 2023 (*Kyung Hee University*). \[[Paper](https://arxiv.org/abs/2306.14289)]\[[PyTorch](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,849 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05]
   * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). \[[Paper](https://arxiv.org/abs/2312.09579)]\[[PyTorch](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,849 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05]
@@ -1659,7 +1659,7 @@ If you find this repository useful, please consider citing this list:
   * **MaskCLIP**: "Extract Free Dense Labels from CLIP", ECCV, 2022 (*NTU, Singapore*). \[[Paper](https://arxiv.org/abs/2112.01071)]\[[PyTorch](https://github.com/chongzhou96/MaskCLIP) ⭐ 481 | 🐛 18 | 🌐 Python | 📅 2022-09-19]\[[Website](https://www.mmlab-ntu.com/project/maskclip/)]
   * **PADing**: "Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation", CVPR, 2023 (*Zhejiang University*). \[[Paper](https://arxiv.org/abs/2306.11087)]\[[PyTorch](https://github.com/heshuting555/PADing) ⭐ 189 | 🐛 6 | 🌐 Python | 📅 2023-07-02]\[[Website](https://henghuiding.github.io/PADing/)]
   * **ZegFormer**: "Decoupling Zero-Shot Semantic Segmentation", CVPR, 2022 (*Wuhan University*). \[[Paper](https://arxiv.org/abs/2112.07910)]\[[PyTorch](https://github.com/dingjiansw101/ZegFormer) ⭐ 180 | 🐛 9 | 🌐 Python | 📅 2022-11-30]
-  * **GEM**: "Grounding Everything: Emerging Localization Properties in Vision-Language Transformers", arXiv, 2023 (*University of Bonn, Germany*). \[[Paper](https://arxiv.org/abs/2312.00878)]\[[PyTorch](https://github.com/WalBouss/GEM) ⭐ 140 | 🐛 4 | 🌐 Python | 📅 2025-04-10]
+  * **GEM**: "Grounding Everything: Emerging Localization Properties in Vision-Language Transformers", arXiv, 2023 (*University of Bonn, Germany*). \[[Paper](https://arxiv.org/abs/2312.00878)]\[[PyTorch](https://github.com/WalBouss/GEM) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2025-04-10]
   * **CaR**: "CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor", arXiv, 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2312.07661)]\[[Code (in construction)](https://github.com/kevin-ssy/CLIP_as_RNN) ⭐ 112 | 🐛 2 | 📅 2024-06-23]\[[Website](https://torrvision.com/clip_as_rnn/)]
   * **SAZS**: "Delving into Shape-aware Zero-shot Semantic Segmentation", CVPR, 2023 (*Tsinghua*). \[[Paper](https://arxiv.org/abs/2304.08491)]\[[PyTorch](https://github.com/Liuxinyv/SAZS) ⭐ 95 | 🐛 5 | 🌐 Python | 📅 2024-01-12]
   * **IFSeg**: "IFSeg: Image-free Semantic Segmentation via Vision-Language Model", CVPR, 2023 (*KAIST*). \[[Paper](https://arxiv.org/abs/2303.14396)]\[[PyTorch](https://github.com/alinlab/ifseg) ⭐ 94 | 🐛 4 | 🌐 Python | 📅 2023-09-05]
