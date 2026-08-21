@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17985
+            "stars": 17988
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17985
+            "stars": 17988
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-10-14T09:40:40Z",
             "owner": "jingyi0000",
             "repo": "VLM_survey",
-            "stars": 3128
+            "stars": 3127
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-13T10:32:32Z",
             "owner": "Yutong-Zhou-cv",
             "repo": "Awesome-Text-to-Image",
-            "stars": 2441
+            "stars": 2442
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-09-27T11:45:33Z",
             "owner": "showlab",
             "repo": "Awesome-MLLM-Hallucination",
-            "stars": 1038
+            "stars": 1039
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-05-12T06:41:25Z",
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1001
+            "stars": 1000
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2024-08-25T03:12:40Z",
             "owner": "lxtGH",
             "repo": "Awesome-Segmentation-With-Transformer",
-            "stars": 756
+            "stars": 755
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2025-12-10T09:08:55Z",
             "owner": "synbol",
             "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2024-11-07T20:14:46Z",
             "owner": "awaisrauf",
             "repo": "Awesome-CV-Foundational-Models",
-            "stars": 552
+            "stars": 551
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2025-10-30T13:12:14Z",
             "owner": "GigaAI-research",
             "repo": "General-World-Models-Survey",
-            "stars": 527
+            "stars": 525
           }
         },
         {
@@ -365,21 +365,6 @@
         },
         {
           "node_type": "item",
-          "title": "\"A Survey on Multimodal Large Language Models for Autonomous Driving\", WACVW, 2024 (Purdue). [Paper",
-          "description": "][GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 708304033,
-            "language": null,
-            "last_commit": "2024-03-14T05:49:50Z",
-            "owner": "IrohXu",
-            "repo": "Awesome-Multimodal-LLM-Autonomous-Driving",
-            "stars": 313
-          }
-        },
-        {
-          "node_type": "item",
           "title": "\"Transformers in Remote Sensing: A Survey\", arXiv, 2022 (MBZUAI). [Paper",
           "description": "][Github]",
           "children": [],
@@ -391,6 +376,21 @@
             "owner": "amandpkr",
             "repo": "Transformer-in-Remote-Sensing",
             "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"A Survey on Multimodal Large Language Models for Autonomous Driving\", WACVW, 2024 (Purdue). [Paper",
+          "description": "][GitHub]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 708304033,
+            "language": null,
+            "last_commit": "2024-03-14T05:49:50Z",
+            "owner": "IrohXu",
+            "repo": "Awesome-Multimodal-LLM-Autonomous-Driving",
+            "stars": 311
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2024-07-01T02:08:45Z",
             "owner": "zhanghm1995",
             "repo": "Forge_VFM4AD",
-            "stars": 272
+            "stars": 271
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2025-12-17T15:36:32Z",
             "owner": "khuangaf",
             "repo": "Awesome-Chart-Understanding",
-            "stars": 242
+            "stars": 241
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2025-07-09T08:13:08Z",
             "owner": "NeeluMadan",
             "repo": "ViFM_Survey",
-            "stars": 145
+            "stars": 144
           }
         },
         {
@@ -878,7 +878,7 @@
                     "last_commit": "2026-08-01T21:36:15Z",
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12672
+                    "stars": 12675
                   }
                 },
                 {
@@ -908,7 +908,7 @@
                     "last_commit": "2025-03-15T12:48:07Z",
                     "owner": "huawei-noah",
                     "repo": "Efficient-AI-Backbones",
-                    "stars": 4419
+                    "stars": 4418
                   }
                 },
                 {
@@ -923,7 +923,7 @@
                     "last_commit": "2025-03-15T12:48:07Z",
                     "owner": "huawei-noah",
                     "repo": "Efficient-AI-Backbones",
-                    "stars": 4419
+                    "stars": 4418
                   }
                 },
                 {
@@ -953,7 +953,7 @@
                     "last_commit": "2022-10-27T08:47:14Z",
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1899
+                    "stars": 1900
                   }
                 },
                 {
@@ -968,7 +968,7 @@
                     "last_commit": "2022-10-27T08:47:14Z",
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1899
+                    "stars": 1900
                   }
                 },
                 {
@@ -998,7 +998,7 @@
                     "last_commit": "2026-06-08T02:26:07Z",
                     "owner": "lucidrains",
                     "repo": "perceiver-pytorch",
-                    "stars": 1219
+                    "stars": 1218
                   }
                 },
                 {
@@ -1178,7 +1178,7 @@
                     "last_commit": "2024-11-04T16:05:06Z",
                     "owner": "LeapLabTHU",
                     "repo": "FLatten-Transformer",
-                    "stars": 447
+                    "stars": 448
                   }
                 },
                 {
@@ -1373,7 +1373,7 @@
                     "last_commit": "2025-09-25T12:22:26Z",
                     "owner": "ViTAE-Transformer",
                     "repo": "QFormer",
-                    "stars": 239
+                    "stars": 240
                   }
                 },
                 {
@@ -1980,7 +1980,7 @@
                     "last_commit": "2025-03-15T12:48:07Z",
                     "owner": "huawei-noah",
                     "repo": "Efficient-AI-Backbones",
-                    "stars": 4419
+                    "stars": 4418
                   }
                 },
                 {
@@ -2025,7 +2025,7 @@
                     "last_commit": "2025-09-05T03:20:07Z",
                     "owner": "mit-han-lab",
                     "repo": "efficientvit",
-                    "stars": 3351
+                    "stars": 3352
                   }
                 },
                 {
@@ -2085,7 +2085,7 @@
                     "last_commit": "2024-06-17T11:22:47Z",
                     "owner": "facebookresearch",
                     "repo": "ToMe",
-                    "stars": 1208
+                    "stars": 1207
                   }
                 },
                 {
@@ -2715,7 +2715,7 @@
                     "last_commit": "2022-07-13T12:19:54Z",
                     "owner": "YifanXu74",
                     "repo": "Evo-ViT",
-                    "stars": 74
+                    "stars": 73
                   }
                 },
                 {
@@ -2870,21 +2870,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "?: \"Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers\", arXiv, 2023 (German Research Center for Artificial Intelligence (DFKI)). [Paper",
-                  "description": "][PyTorch]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 659234913,
-                    "language": "Python",
-                    "last_commit": "2026-02-25T08:55:03Z",
-                    "owner": "tobna",
-                    "repo": "WhatTransformerToFavor",
-                    "stars": 33
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "HVT: \"Scalable Visual Transformers with Hierarchical Pooling\", ICCV, 2021 (Monash University). [Paper",
                   "description": "][PyTorch]",
                   "children": [],
@@ -2900,6 +2885,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "?: \"Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers\", arXiv, 2023 (German Research Center for Artificial Intelligence (DFKI)). [Paper",
+                  "description": "][PyTorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 659234913,
+                    "language": "Python",
+                    "last_commit": "2026-02-25T08:55:03Z",
+                    "owner": "tobna",
+                    "repo": "WhatTransformerToFavor",
+                    "stars": 32
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "GTP-ViT: \"GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation\", WACV, 2024 (CSIRO Data61, Australia). [Paper",
                   "description": "][PyTorch]",
                   "children": [],
@@ -2910,7 +2910,7 @@
                     "last_commit": "2026-06-23T06:35:13Z",
                     "owner": "Ackesnal",
                     "repo": "GTP-ViT",
-                    "stars": 32
+                    "stars": 31
                   }
                 },
                 {
@@ -3479,7 +3479,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34197
+                    "stars": 34201
                   }
                 },
                 {
@@ -3494,7 +3494,7 @@
                     "last_commit": "2025-09-30T11:16:06Z",
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32234
+                    "stars": 32233
                   }
                 },
                 {
@@ -3509,7 +3509,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22192
+                    "stars": 22193
                   }
                 },
                 {
@@ -3524,7 +3524,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22192
+                    "stars": 22193
                   }
                 },
                 {
@@ -3539,7 +3539,7 @@
                     "last_commit": "2026-08-01T21:36:15Z",
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12672
+                    "stars": 12675
                   }
                 },
                 {
@@ -3599,7 +3599,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3519
+                    "stars": 3522
                   }
                 },
                 {
@@ -3614,7 +3614,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3519
+                    "stars": 3522
                   }
                 },
                 {
@@ -3629,7 +3629,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3519
+                    "stars": 3522
                   }
                 },
                 {
@@ -3644,7 +3644,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3519
+                    "stars": 3522
                   }
                 },
                 {
@@ -3659,7 +3659,7 @@
                     "last_commit": "2022-04-29T00:03:56Z",
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2096
+                    "stars": 2095
                   }
                 },
                 {
@@ -3704,7 +3704,7 @@
                     "last_commit": "2023-02-09T10:23:37Z",
                     "owner": "facebookresearch",
                     "repo": "SLIP",
-                    "stars": 791
+                    "stars": 788
                   }
                 },
                 {
@@ -3734,7 +3734,7 @@
                     "last_commit": "2021-05-13T13:43:51Z",
                     "owner": "SwinTransformer",
                     "repo": "Transformer-SSL",
-                    "stars": 672
+                    "stars": 673
                   }
                 },
                 {
@@ -3764,7 +3764,7 @@
                     "last_commit": "2023-03-10T07:09:07Z",
                     "owner": "LTH14",
                     "repo": "mage",
-                    "stars": 582
+                    "stars": 583
                   }
                 },
                 {
@@ -5383,7 +5383,7 @@
                     "last_commit": "2024-09-27T23:58:17Z",
                     "owner": "HuangOwen",
                     "repo": "Quantization-Variation",
-                    "stars": 50
+                    "stars": 49
                   }
                 },
                 {
@@ -5532,7 +5532,7 @@
                     "last_commit": "2026-08-01T21:36:15Z",
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12672
+                    "stars": 12675
                   }
                 },
                 {
@@ -5547,7 +5547,7 @@
                     "last_commit": "2025-03-15T12:48:07Z",
                     "owner": "huawei-noah",
                     "repo": "Efficient-AI-Backbones",
-                    "stars": 4419
+                    "stars": 4418
                   }
                 },
                 {
@@ -5749,7 +5749,7 @@
                     "last_commit": "2023-01-08T14:23:08Z",
                     "owner": "facebookresearch",
                     "repo": "ConvNeXt",
-                    "stars": 6416
+                    "stars": 6417
                   }
                 },
                 {
@@ -5779,7 +5779,7 @@
                     "last_commit": "2025-03-07T15:14:15Z",
                     "owner": "MzeroMiko",
                     "repo": "VMamba",
-                    "stars": 3217
+                    "stars": 3218
                   }
                 },
                 {
@@ -5794,7 +5794,7 @@
                     "last_commit": "2025-03-09T11:15:26Z",
                     "owner": "yuweihao",
                     "repo": "MambaOut",
-                    "stars": 2705
+                    "stars": 2704
                   }
                 },
                 {
@@ -6046,7 +6046,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12672
+                "stars": 12675
               }
             },
             {
@@ -6061,7 +6061,7 @@
                 "last_commit": "2024-01-24T05:59:39Z",
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2016
+                "stars": 2014
               }
             },
             {
@@ -6121,7 +6121,7 @@
                 "last_commit": "2023-11-02T02:55:45Z",
                 "owner": "hsouri",
                 "repo": "Battle-of-the-Backbones",
-                "stars": 213
+                "stars": 214
               }
             },
             {
@@ -6391,7 +6391,7 @@
                 "last_commit": "2022-05-26T14:59:31Z",
                 "owner": "byM1902",
                 "repo": "ViT_visualization",
-                "stars": 12
+                "stars": 11
               }
             },
             {
@@ -6439,7 +6439,7 @@
                     "last_commit": "2025-09-11T12:21:01Z",
                     "owner": "IDEA-Research",
                     "repo": "detrex",
-                    "stars": 2306
+                    "stars": 2305
                   }
                 }
               ]
@@ -6701,7 +6701,7 @@
                     "last_commit": "2024-04-29T10:25:46Z",
                     "owner": "IDEA-Research",
                     "repo": "Stable-DINO",
-                    "stars": 244
+                    "stars": 245
                   }
                 },
                 {
@@ -6851,7 +6851,7 @@
                     "last_commit": "2024-07-10T07:43:56Z",
                     "owner": "Atten4Vis",
                     "repo": "MS-DETR",
-                    "stars": 129
+                    "stars": 128
                   }
                 },
                 {
@@ -6881,7 +6881,7 @@
                     "last_commit": "2023-10-19T07:34:15Z",
                     "owner": "LeapLabTHU",
                     "repo": "Rank-DETR",
-                    "stars": 106
+                    "stars": 105
                   }
                 },
                 {
@@ -7036,21 +7036,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Q-DETR: \"Q-DETR: An Efficient Low-Bit Quantized Detection Transformer\", CVPR, 2023 (Beihang University). [Paper",
-                  "description": "][Code (in construction)]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 616917016,
-                    "language": "Python",
-                    "last_commit": "2023-09-03T08:17:52Z",
-                    "owner": "SteveTsui",
-                    "repo": "Q-DETR",
-                    "stars": 38
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "SiameseDETR: \"Siamese DETR\", CVPR, 2023 (SenseTime). [Paper",
                   "description": "][PyTorch]",
                   "children": [],
@@ -7061,6 +7046,21 @@
                     "last_commit": "2023-07-14T14:52:34Z",
                     "owner": "Zx55",
                     "repo": "SiameseDETR",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Q-DETR: \"Q-DETR: An Efficient Low-Bit Quantized Detection Transformer\", CVPR, 2023 (Beihang University). [Paper",
+                  "description": "][Code (in construction)]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 616917016,
+                    "language": "Python",
+                    "last_commit": "2023-09-03T08:17:52Z",
+                    "owner": "SteveTsui",
+                    "repo": "Q-DETR",
                     "stars": 37
                   }
                 },
@@ -7188,7 +7188,7 @@
                     "last_commit": "2022-05-04T07:21:54Z",
                     "owner": "hustvl",
                     "repo": "YOLOS",
-                    "stars": 902
+                    "stars": 901
                   }
                 },
                 {
@@ -7302,7 +7302,7 @@
                 "last_commit": "2025-07-15T16:05:38Z",
                 "owner": "ZrrSkywalker",
                 "repo": "MonoDETR",
-                "stars": 447
+                "stars": 446
               }
             },
             {
@@ -7542,7 +7542,7 @@
                 "last_commit": "2024-07-29T03:02:53Z",
                 "owner": "zhenyuw16",
                 "repo": "Uni3DETR",
-                "stars": 122
+                "stars": 121
               }
             },
             {
@@ -8141,7 +8141,7 @@
                 "last_commit": "2024-07-04T01:04:46Z",
                 "owner": "fredzzhang",
                 "repo": "pvic",
-                "stars": 90
+                "stars": 89
               }
             },
             {
@@ -8400,7 +8400,7 @@
                     "last_commit": "2026-05-28T07:28:31Z",
                     "owner": "PaddlePaddle",
                     "repo": "PaddleDetection",
-                    "stars": 14377
+                    "stars": 14378
                   }
                 },
                 {
@@ -8475,7 +8475,7 @@
                     "last_commit": "2024-05-07T10:08:47Z",
                     "owner": "u2seg",
                     "repo": "U2Seg",
-                    "stars": 233
+                    "stars": 232
                   }
                 },
                 {
@@ -8632,7 +8632,7 @@
                     "last_commit": "2022-08-21T08:09:08Z",
                     "owner": "ZhangGongjie",
                     "repo": "Meta-DETR",
-                    "stars": 434
+                    "stars": 433
                   }
                 }
               ]
@@ -8654,7 +8654,7 @@
                     "last_commit": "2024-08-21T02:01:07Z",
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32885
+                    "stars": 32889
                   }
                 },
                 {
@@ -8669,7 +8669,7 @@
                     "last_commit": "2025-02-26T18:29:03Z",
                     "owner": "AILab-CVC",
                     "repo": "YOLO-World",
-                    "stars": 6517
+                    "stars": 6519
                   }
                 },
                 {
@@ -9223,7 +9223,7 @@
                     "last_commit": "2024-07-05T21:22:29Z",
                     "owner": "mlpc-ucsd",
                     "repo": "LETR",
-                    "stars": 245
+                    "stars": 246
                   }
                 },
                 {
@@ -9534,7 +9534,7 @@
                     "last_commit": "2024-11-29T03:13:35Z",
                     "owner": "mxin262",
                     "repo": "SwinTextSpotter",
-                    "stars": 290
+                    "stars": 289
                   }
                 },
                 {
@@ -9683,7 +9683,7 @@
                     "last_commit": "2025-11-25T03:33:48Z",
                     "owner": "MengyangPu",
                     "repo": "EDTER",
-                    "stars": 326
+                    "stars": 324
                   }
                 },
                 {
@@ -9816,7 +9816,7 @@
                     "last_commit": "2023-09-17T02:50:48Z",
                     "owner": "bytedance",
                     "repo": "DiffusionEngine",
-                    "stars": 92
+                    "stars": 91
                   }
                 },
                 {
@@ -9891,7 +9891,7 @@
                 "last_commit": "2024-09-02T07:59:01Z",
                 "owner": "fudan-zvg",
                 "repo": "SETR",
-                "stars": 1109
+                "stars": 1108
               }
             },
             {
@@ -9906,7 +9906,7 @@
                 "last_commit": "2024-09-02T07:59:01Z",
                 "owner": "fudan-zvg",
                 "repo": "SETR",
-                "stars": 1109
+                "stars": 1108
               }
             },
             {
@@ -9921,7 +9921,7 @@
                 "last_commit": "2024-04-21T19:30:30Z",
                 "owner": "rstrudel",
                 "repo": "segmenter",
-                "stars": 905
+                "stars": 904
               }
             },
             {
@@ -10243,7 +10243,7 @@
                 "last_commit": "2024-07-17T10:46:05Z",
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8182
+                "stars": 8184
               }
             },
             {
@@ -10258,7 +10258,7 @@
                 "last_commit": "2024-12-18T16:24:13Z",
                 "owner": "isl-org",
                 "repo": "DPT",
-                "stars": 2335
+                "stars": 2334
               }
             },
             {
@@ -10333,7 +10333,7 @@
                 "last_commit": "2024-04-16T05:46:52Z",
                 "owner": "youmi-zym",
                 "repo": "CompletionFormer",
-                "stars": 283
+                "stars": 282
               }
             },
             {
@@ -10517,7 +10517,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54726
+                    "stars": 54738
                   }
                 },
                 {
@@ -10544,10 +10544,10 @@
                     "archived": false,
                     "id": 199509705,
                     "language": "Python",
-                    "last_commit": "2026-08-20T13:48:04Z",
+                    "last_commit": "2026-08-20T17:06:17Z",
                     "owner": "autogluon",
                     "repo": "autogluon",
-                    "stars": 10611
+                    "stars": 10610
                   }
                 },
                 {
@@ -10562,7 +10562,7 @@
                     "last_commit": "2024-07-30T13:35:06Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8394
+                    "stars": 8396
                   }
                 },
                 {
@@ -10577,7 +10577,7 @@
                     "last_commit": "2026-05-05T11:00:13Z",
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5852
+                    "stars": 5855
                   }
                 },
                 {
@@ -10592,7 +10592,7 @@
                     "last_commit": "2026-05-05T11:00:13Z",
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5852
+                    "stars": 5855
                   }
                 },
                 {
@@ -10637,7 +10637,7 @@
                     "last_commit": "2025-09-05T03:20:07Z",
                     "owner": "mit-han-lab",
                     "repo": "efficientvit",
-                    "stars": 3351
+                    "stars": 3352
                   }
                 },
                 {
@@ -10652,7 +10652,7 @@
                     "last_commit": "2025-07-10T08:06:44Z",
                     "owner": "UX-Decoder",
                     "repo": "Semantic-SAM",
-                    "stars": 2855
+                    "stars": 2854
                   }
                 },
                 {
@@ -10682,7 +10682,7 @@
                     "last_commit": "2025-05-24T07:54:29Z",
                     "owner": "chongzhou96",
                     "repo": "EdgeSAM",
-                    "stars": 1172
+                    "stars": 1171
                   }
                 },
                 {
@@ -10959,7 +10959,7 @@
                     "last_commit": "2024-01-05T10:36:22Z",
                     "owner": "timojl",
                     "repo": "clipseg",
-                    "stars": 1336
+                    "stars": 1337
                   }
                 },
                 {
@@ -10989,7 +10989,7 @@
                     "last_commit": "2022-05-10T15:39:52Z",
                     "owner": "NVlabs",
                     "repo": "GroupViT",
-                    "stars": 788
+                    "stars": 789
                   }
                 },
                 {
@@ -11019,7 +11019,7 @@
                     "last_commit": "2022-09-19T12:52:07Z",
                     "owner": "chongzhou96",
                     "repo": "MaskCLIP",
-                    "stars": 481
+                    "stars": 480
                   }
                 },
                 {
@@ -11446,7 +11446,7 @@
                     "last_commit": "2023-05-11T08:54:42Z",
                     "owner": "khanrc",
                     "repo": "tcl",
-                    "stars": 118
+                    "stars": 117
                   }
                 },
                 {
@@ -11461,7 +11461,7 @@
                     "last_commit": "2025-05-28T11:33:16Z",
                     "owner": "aim-uofa",
                     "repo": "SegPrompt",
-                    "stars": 112
+                    "stars": 110
                   }
                 },
                 {
@@ -11678,7 +11678,7 @@
                     "last_commit": "2025-02-16T13:33:08Z",
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2672
+                    "stars": 2671
                   }
                 },
                 {
@@ -11917,7 +11917,7 @@
                     "last_commit": "2024-09-02T14:15:43Z",
                     "owner": "huaaaliu",
                     "repo": "RGBX_Semantic_Segmentation",
-                    "stars": 440
+                    "stars": 439
                   }
                 },
                 {
@@ -12559,7 +12559,7 @@
                     "last_commit": "2026-07-17T07:10:42Z",
                     "owner": "hustvl",
                     "repo": "WeakTr",
-                    "stars": 140
+                    "stars": 141
                   }
                 },
                 {
@@ -12649,7 +12649,7 @@
                     "last_commit": "2023-10-09T15:43:30Z",
                     "owner": "cskyl",
                     "repo": "SAM_WSSS",
-                    "stars": 75
+                    "stars": 74
                   }
                 },
                 {
@@ -12814,7 +12814,7 @@
                     "last_commit": "2024-03-14T07:26:23Z",
                     "owner": "ChengShiest",
                     "repo": "Zip-Your-CLIP",
-                    "stars": 36
+                    "stars": 35
                   }
                 },
                 {
@@ -13046,7 +13046,7 @@
                     "last_commit": "2024-08-10T16:20:06Z",
                     "owner": "lhoyer",
                     "repo": "MIC",
-                    "stars": 295
+                    "stars": 294
                   }
                 },
                 {
@@ -13247,7 +13247,7 @@
                     "last_commit": "2026-04-21T16:42:35Z",
                     "owner": "drprojects",
                     "repo": "superpoint_transformer",
-                    "stars": 1048
+                    "stars": 1046
                   }
                 },
                 {
@@ -13307,22 +13307,7 @@
                     "last_commit": "2023-01-07T14:19:05Z",
                     "owner": "JIA-Lab-research",
                     "repo": "Stratified-Transformer",
-                    "stars": 432
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "GrowSP: \"GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds\", CVPR, 2023 (The Hong Kong Polytechnic University). [Paper",
-                  "description": "][PyTorch]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 645000508,
-                    "language": "Python",
-                    "last_commit": "2026-05-30T15:49:21Z",
-                    "owner": "vLAR-group",
-                    "repo": "GrowSP",
-                    "stars": 201
+                    "stars": 431
                   }
                 },
                 {
@@ -13338,6 +13323,21 @@
                     "owner": "hustvl",
                     "repo": "Symphonies",
                     "stars": 201
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GrowSP: \"GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds\", CVPR, 2023 (The Hong Kong Polytechnic University). [Paper",
+                  "description": "][PyTorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 645000508,
+                    "language": "Python",
+                    "last_commit": "2026-05-30T15:49:21Z",
+                    "owner": "vLAR-group",
+                    "repo": "GrowSP",
+                    "stars": 200
                   }
                 },
                 {
@@ -13902,7 +13902,7 @@
                     "last_commit": "2025-08-05T22:45:59Z",
                     "owner": "uncbiag",
                     "repo": "SimpleClick",
-                    "stars": 263
+                    "stars": 262
                   }
                 },
                 {
@@ -14138,7 +14138,7 @@
                     "last_commit": "2024-03-02T06:16:12Z",
                     "owner": "facebookresearch",
                     "repo": "hiera",
-                    "stars": 1074
+                    "stars": 1073
                   }
                 },
                 {
@@ -14835,7 +14835,7 @@
                     "last_commit": "2025-06-08T10:52:00Z",
                     "owner": "s-shamil",
                     "repo": "HandFormer",
-                    "stars": 20
+                    "stars": 21
                   }
                 },
                 {
@@ -14872,7 +14872,7 @@
                     "last_commit": "2026-03-14T07:57:31Z",
                     "owner": "Walter0807",
                     "repo": "MotionBERT",
-                    "stars": 1435
+                    "stars": 1436
                   }
                 },
                 {
@@ -15420,7 +15420,7 @@
                 "last_commit": "2024-11-08T21:38:38Z",
                 "owner": "hkchengrex",
                 "repo": "Cutie",
-                "stars": 1093
+                "stars": 1094
               }
             },
             {
@@ -15435,7 +15435,7 @@
                 "last_commit": "2026-04-07T03:00:22Z",
                 "owner": "yoxu515",
                 "repo": "aot-benchmark",
-                "stars": 595
+                "stars": 594
               }
             },
             {
@@ -15450,7 +15450,7 @@
                 "last_commit": "2026-04-07T03:00:22Z",
                 "owner": "yoxu515",
                 "repo": "aot-benchmark",
-                "stars": 595
+                "stars": 594
               }
             },
             {
@@ -15802,7 +15802,7 @@
                 "last_commit": "2023-10-15T07:12:50Z",
                 "owner": "KainingYing",
                 "repo": "CTVIS",
-                "stars": 83
+                "stars": 82
               }
             },
             {
@@ -16121,7 +16121,7 @@
                     "last_commit": "2024-01-27T23:10:56Z",
                     "owner": "SysCV",
                     "repo": "sam-pt",
-                    "stars": 1043
+                    "stars": 1041
                   }
                 },
                 {
@@ -16449,7 +16449,7 @@
                     "last_commit": "2026-07-02T03:20:41Z",
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2362
+                    "stars": 2365
                   }
                 },
                 {
@@ -16539,7 +16539,7 @@
                     "last_commit": "2024-05-30T03:33:39Z",
                     "owner": "whwu95",
                     "repo": "Text4Vis",
-                    "stars": 199
+                    "stars": 198
                   }
                 },
                 {
@@ -16629,7 +16629,7 @@
                     "last_commit": "2023-07-01T00:09:24Z",
                     "owner": "TalalWasim",
                     "repo": "Vita-CLIP",
-                    "stars": 126
+                    "stars": 125
                   }
                 },
                 {
@@ -16689,7 +16689,7 @@
                     "last_commit": "2024-01-28T12:16:45Z",
                     "owner": "farewellthree",
                     "repo": "STAN",
-                    "stars": 107
+                    "stars": 106
                   }
                 },
                 {
@@ -17041,7 +17041,7 @@
                     "last_commit": "2024-10-08T05:04:52Z",
                     "owner": "OpenGVLab",
                     "repo": "VideoMAEv2",
-                    "stars": 815
+                    "stars": 814
                   }
                 },
                 {
@@ -17101,7 +17101,7 @@
                     "last_commit": "2023-05-21T03:01:44Z",
                     "owner": "ruiwang2021",
                     "repo": "mvd",
-                    "stars": 135
+                    "stars": 136
                   }
                 },
                 {
@@ -17649,7 +17649,7 @@
                     "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38586
+                    "stars": 38592
                   }
                 }
               ]
@@ -17664,7 +17664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:22:22.209Z",
+    "last_updated": "2026-08-21T14:20:35.152Z",
     "original_repository": "cmhungsteve/Awesome-Transformer-Attention",
     "original_repository_id": 406653146,
     "original_repository_sha": "0653f4a10231dd2be1f96e781e73f1554233d1fc",
