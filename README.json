@@ -225,7 +225,7 @@
             "last_commit": "2026-08-17T06:28:33Z",
             "owner": "Ruixxxx",
             "repo": "Awesome-Vision-Mamba-Models",
-            "stars": 742
+            "stars": 743
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2025-04-23T21:41:19Z",
             "owner": "Lupin1998",
             "repo": "Awesome-MIM",
-            "stars": 354
+            "stars": 355
           }
         },
         {
@@ -3494,7 +3494,7 @@
                     "last_commit": "2025-09-30T11:16:06Z",
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32234
+                    "stars": 32235
                   }
                 },
                 {
@@ -3659,7 +3659,7 @@
                     "last_commit": "2022-04-29T00:03:56Z",
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2095
+                    "stars": 2096
                   }
                 },
                 {
@@ -9861,7 +9861,7 @@
                 "last_commit": "2026-02-05T16:49:17Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleSeg",
-                "stars": 9378
+                "stars": 9379
               }
             },
             {
@@ -10517,7 +10517,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54754
+                    "stars": 54755
                   }
                 },
                 {
@@ -17664,7 +17664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:54:11.256Z",
+    "last_updated": "2026-08-24T14:50:34.912Z",
     "original_repository": "cmhungsteve/Awesome-Transformer-Attention",
     "original_repository_id": 406653146,
     "original_repository_sha": "0653f4a10231dd2be1f96e781e73f1554233d1fc",
