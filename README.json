@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T16:19:20Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17989
+            "stars": 17988
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T16:19:20Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17989
+            "stars": 17988
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-10-20T07:49:48Z",
             "owner": "MenghaoGuo",
             "repo": "Awesome-Vision-Attentions",
-            "stars": 2841
+            "stars": 2842
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T17:02:12Z",
             "owner": "ChenHsing",
             "repo": "Awesome-Video-Diffusion-Models",
-            "stars": 2312
+            "stars": 2314
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-09-27T11:45:33Z",
             "owner": "showlab",
             "repo": "Awesome-MLLM-Hallucination",
-            "stars": 1039
+            "stars": 1038
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-05-12T06:41:25Z",
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1001
+            "stars": 1002
           }
         },
         {
@@ -848,7 +848,7 @@
                     "last_commit": "2024-07-24T17:09:57Z",
                     "owner": "microsoft",
                     "repo": "Swin-Transformer",
-                    "stars": 16049
+                    "stars": 16051
                   }
                 },
                 {
@@ -863,7 +863,7 @@
                     "last_commit": "2024-07-24T17:09:57Z",
                     "owner": "microsoft",
                     "repo": "Swin-Transformer",
-                    "stars": 16049
+                    "stars": 16051
                   }
                 },
                 {
@@ -878,7 +878,7 @@
                     "last_commit": "2026-08-01T21:36:15Z",
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12681
+                    "stars": 12683
                   }
                 },
                 {
@@ -893,7 +893,7 @@
                     "last_commit": "2026-08-10T06:59:24Z",
                     "owner": "PaddlePaddle",
                     "repo": "PaddleClas",
-                    "stars": 5837
+                    "stars": 5838
                   }
                 },
                 {
@@ -2025,7 +2025,7 @@
                     "last_commit": "2025-09-05T03:20:07Z",
                     "owner": "mit-han-lab",
                     "repo": "efficientvit",
-                    "stars": 3354
+                    "stars": 3353
                   }
                 },
                 {
@@ -2142,10 +2142,10 @@
                     "archived": false,
                     "id": 393227808,
                     "language": "C",
-                    "last_commit": "2026-08-10T02:10:42Z",
+                    "last_commit": "2026-08-26T03:43:53Z",
                     "owner": "microsoft",
                     "repo": "Tutel",
-                    "stars": 1013
+                    "stars": 1014
                   }
                 },
                 {
@@ -2415,7 +2415,7 @@
                     "last_commit": "2026-06-30T04:59:08Z",
                     "owner": "youweiliang",
                     "repo": "evit",
-                    "stars": 200
+                    "stars": 201
                   }
                 },
                 {
@@ -3067,7 +3067,7 @@
                     "last_commit": "2025-03-25T02:29:19Z",
                     "owner": "OpenGVLab",
                     "repo": "InternImage",
-                    "stars": 2840
+                    "stars": 2841
                   }
                 },
                 {
@@ -3479,7 +3479,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34223
+                    "stars": 34232
                   }
                 },
                 {
@@ -3494,7 +3494,7 @@
                     "last_commit": "2025-09-30T11:16:06Z",
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32234
+                    "stars": 32231
                   }
                 },
                 {
@@ -3506,10 +3506,10 @@
                     "archived": false,
                     "id": 198350484,
                     "language": "Python",
-                    "last_commit": "2026-01-23T04:09:35Z",
+                    "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22193
+                    "stars": 22194
                   }
                 },
                 {
@@ -3521,10 +3521,10 @@
                     "archived": false,
                     "id": 198350484,
                     "language": "Python",
-                    "last_commit": "2026-01-23T04:09:35Z",
+                    "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22193
+                    "stars": 22194
                   }
                 },
                 {
@@ -3539,7 +3539,7 @@
                     "last_commit": "2026-08-01T21:36:15Z",
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12681
+                    "stars": 12683
                   }
                 },
                 {
@@ -3554,7 +3554,7 @@
                     "last_commit": "2024-07-23T18:15:40Z",
                     "owner": "facebookresearch",
                     "repo": "mae",
-                    "stars": 8371
+                    "stars": 8370
                   }
                 },
                 {
@@ -3569,7 +3569,7 @@
                     "last_commit": "2024-07-03T16:21:59Z",
                     "owner": "facebookresearch",
                     "repo": "dino",
-                    "stars": 7612
+                    "stars": 7611
                   }
                 },
                 {
@@ -3599,7 +3599,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3526
+                    "stars": 3528
                   }
                 },
                 {
@@ -3614,7 +3614,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3526
+                    "stars": 3528
                   }
                 },
                 {
@@ -3629,7 +3629,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3526
+                    "stars": 3528
                   }
                 },
                 {
@@ -3644,7 +3644,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3526
+                    "stars": 3528
                   }
                 },
                 {
@@ -4349,7 +4349,7 @@
                     "last_commit": "2025-07-02T05:32:54Z",
                     "owner": "OpenDriveLab",
                     "repo": "maskalign",
-                    "stars": 71
+                    "stars": 72
                   }
                 },
                 {
@@ -5532,7 +5532,7 @@
                     "last_commit": "2026-08-01T21:36:15Z",
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12681
+                    "stars": 12683
                   }
                 },
                 {
@@ -5764,7 +5764,7 @@
                     "last_commit": "2025-02-13T02:19:19Z",
                     "owner": "hustvl",
                     "repo": "Vim",
-                    "stars": 3898
+                    "stars": 3899
                   }
                 },
                 {
@@ -6046,7 +6046,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12681
+                "stars": 12683
               }
             },
             {
@@ -6439,7 +6439,7 @@
                     "last_commit": "2025-09-11T12:21:01Z",
                     "owner": "IDEA-Research",
                     "repo": "detrex",
-                    "stars": 2305
+                    "stars": 2306
                   }
                 }
               ]
@@ -6461,7 +6461,7 @@
                     "last_commit": "2024-03-12T15:58:25Z",
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15355
+                    "stars": 15354
                   }
                 },
                 {
@@ -6491,7 +6491,7 @@
                     "last_commit": "2023-12-20T07:05:03Z",
                     "owner": "IDEA-Research",
                     "repo": "MaskDINO",
-                    "stars": 1554
+                    "stars": 1557
                   }
                 },
                 {
@@ -6506,7 +6506,7 @@
                     "last_commit": "2025-06-03T15:00:23Z",
                     "owner": "czczup",
                     "repo": "ViT-Adapter",
-                    "stars": 1502
+                    "stars": 1503
                   }
                 },
                 {
@@ -6536,7 +6536,7 @@
                     "last_commit": "2026-08-18T12:08:30Z",
                     "owner": "huawei-noah",
                     "repo": "noah-research",
-                    "stars": 1002
+                    "stars": 1003
                   }
                 },
                 {
@@ -6551,7 +6551,7 @@
                     "last_commit": "2023-12-20T07:06:23Z",
                     "owner": "IDEA-Research",
                     "repo": "DN-DETR",
-                    "stars": 606
+                    "stars": 607
                   }
                 },
                 {
@@ -6566,7 +6566,7 @@
                     "last_commit": "2023-06-02T09:56:52Z",
                     "owner": "IDEA-Research",
                     "repo": "DAB-DETR",
-                    "stars": 584
+                    "stars": 585
                   }
                 },
                 {
@@ -7173,7 +7173,7 @@
                     "last_commit": "2024-07-31T13:56:21Z",
                     "owner": "IDEA-Research",
                     "repo": "DINO",
-                    "stars": 2833
+                    "stars": 2834
                   }
                 },
                 {
@@ -7924,7 +7924,7 @@
                 "last_commit": "2023-02-11T20:04:35Z",
                 "owner": "alirezazareian",
                 "repo": "ovr-cnn",
-                "stars": 249
+                "stars": 248
               }
             },
             {
@@ -8400,7 +8400,7 @@
                     "last_commit": "2026-05-28T07:28:31Z",
                     "owner": "PaddlePaddle",
                     "repo": "PaddleDetection",
-                    "stars": 14382
+                    "stars": 14389
                   }
                 },
                 {
@@ -8654,7 +8654,7 @@
                     "last_commit": "2024-08-21T02:01:07Z",
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32889
+                    "stars": 32892
                   }
                 },
                 {
@@ -9861,7 +9861,7 @@
                 "last_commit": "2026-02-05T16:49:17Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleSeg",
-                "stars": 9381
+                "stars": 9382
               }
             },
             {
@@ -9876,7 +9876,7 @@
                 "last_commit": "2024-08-02T15:50:33Z",
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3627
+                "stars": 3629
               }
             },
             {
@@ -10243,7 +10243,7 @@
                 "last_commit": "2024-07-17T10:46:05Z",
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8193
+                "stars": 8195
               }
             },
             {
@@ -10303,7 +10303,7 @@
                 "last_commit": "2023-12-11T13:32:11Z",
                 "owner": "noahzn",
                 "repo": "Lite-Mono",
-                "stars": 711
+                "stars": 712
               }
             },
             {
@@ -10517,7 +10517,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54754
+                    "stars": 54758
                   }
                 },
                 {
@@ -10532,7 +10532,7 @@
                     "last_commit": "2024-09-05T06:07:32Z",
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17707
+                    "stars": 17710
                   }
                 },
                 {
@@ -10544,10 +10544,10 @@
                     "archived": false,
                     "id": 199509705,
                     "language": "Python",
-                    "last_commit": "2026-08-25T10:16:15Z",
+                    "last_commit": "2026-08-25T20:12:14Z",
                     "owner": "autogluon",
                     "repo": "autogluon",
-                    "stars": 10614
+                    "stars": 10617
                   }
                 },
                 {
@@ -10562,7 +10562,7 @@
                     "last_commit": "2024-07-30T13:35:06Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8400
+                    "stars": 8401
                   }
                 },
                 {
@@ -10577,7 +10577,7 @@
                     "last_commit": "2026-05-05T11:00:13Z",
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5857
+                    "stars": 5858
                   }
                 },
                 {
@@ -10592,7 +10592,7 @@
                     "last_commit": "2026-05-05T11:00:13Z",
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5857
+                    "stars": 5858
                   }
                 },
                 {
@@ -10607,7 +10607,7 @@
                     "last_commit": "2024-08-19T08:01:54Z",
                     "owner": "UX-Decoder",
                     "repo": "Segment-Everything-Everywhere-All-At-Once",
-                    "stars": 4795
+                    "stars": 4794
                   }
                 },
                 {
@@ -10637,7 +10637,7 @@
                     "last_commit": "2025-09-05T03:20:07Z",
                     "owner": "mit-han-lab",
                     "repo": "efficientvit",
-                    "stars": 3354
+                    "stars": 3353
                   }
                 },
                 {
@@ -10787,7 +10787,7 @@
                     "last_commit": "2025-09-27T03:23:39Z",
                     "owner": "czg1225",
                     "repo": "SlimSAM",
-                    "stars": 362
+                    "stars": 363
                   }
                 },
                 {
@@ -10802,7 +10802,7 @@
                     "last_commit": "2025-04-11T19:04:18Z",
                     "owner": "xushilin1",
                     "repo": "RMP-SAM",
-                    "stars": 273
+                    "stars": 274
                   }
                 },
                 {
@@ -11266,7 +11266,7 @@
                     "last_commit": "2024-01-22T14:12:04Z",
                     "owner": "IDEA-Research",
                     "repo": "OpenSeeD",
-                    "stars": 765
+                    "stars": 764
                   }
                 },
                 {
@@ -11301,21 +11301,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "SAN: \"Side Adapter Network for Open-Vocabulary Semantic Segmentation\", CVPR, 2023 (Microsoft). [Paper",
-                  "description": "][PyTorch]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 605903083,
-                    "language": "Python",
-                    "last_commit": "2024-10-16T12:39:33Z",
-                    "owner": "MendelXu",
-                    "repo": "SAN",
-                    "stars": 388
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "CAT-Seg: \"CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation\", arXiv, 2023 (Korea University). [Paper",
                   "description": "][PyTorch][Website]",
                   "children": [],
@@ -11326,6 +11311,21 @@
                     "last_commit": "2024-04-11T11:58:21Z",
                     "owner": "cvlab-kaist",
                     "repo": "CAT-Seg",
+                    "stars": 389
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAN: \"Side Adapter Network for Open-Vocabulary Semantic Segmentation\", CVPR, 2023 (Microsoft). [Paper",
+                  "description": "][PyTorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 605903083,
+                    "language": "Python",
+                    "last_commit": "2024-10-16T12:39:33Z",
+                    "owner": "MendelXu",
+                    "repo": "SAN",
                     "stars": 388
                   }
                 },
@@ -11356,7 +11356,7 @@
                     "last_commit": "2025-06-19T23:16:25Z",
                     "owner": "berkeley-hipie",
                     "repo": "HIPIE",
-                    "stars": 294
+                    "stars": 293
                   }
                 },
                 {
@@ -11371,7 +11371,7 @@
                     "last_commit": "2024-10-26T10:13:08Z",
                     "owner": "wysoczanska",
                     "repo": "clip_dinoiser",
-                    "stars": 287
+                    "stars": 286
                   }
                 },
                 {
@@ -11678,7 +11678,7 @@
                     "last_commit": "2025-02-16T13:33:08Z",
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2673
+                    "stars": 2674
                   }
                 },
                 {
@@ -11775,7 +11775,7 @@
                     "last_commit": "2025-10-15T13:07:49Z",
                     "owner": "lxtGH",
                     "repo": "OMG-Seg",
-                    "stars": 1353
+                    "stars": 1354
                   }
                 },
                 {
@@ -13031,7 +13031,7 @@
                     "last_commit": "2024-08-10T16:20:43Z",
                     "owner": "lhoyer",
                     "repo": "DAFormer",
-                    "stars": 573
+                    "stars": 574
                   }
                 },
                 {
@@ -13046,7 +13046,7 @@
                     "last_commit": "2024-08-10T16:20:06Z",
                     "owner": "lhoyer",
                     "repo": "MIC",
-                    "stars": 294
+                    "stars": 295
                   }
                 },
                 {
@@ -13277,7 +13277,7 @@
                     "last_commit": "2026-08-02T15:56:50Z",
                     "owner": "Jumpat",
                     "repo": "SegAnyGAussians",
-                    "stars": 992
+                    "stars": 991
                   }
                 },
                 {
@@ -14872,7 +14872,7 @@
                     "last_commit": "2026-03-14T07:57:31Z",
                     "owner": "Walter0807",
                     "repo": "MotionBERT",
-                    "stars": 1437
+                    "stars": 1439
                   }
                 },
                 {
@@ -15081,6 +15081,21 @@
             },
             {
               "node_type": "item",
+              "title": "MS-TCT: \"MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection\", CVPR, 2022 (INRIA). [Paper",
+              "description": "][PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466598515,
+                "language": "Python",
+                "last_commit": "2022-10-08T16:46:42Z",
+                "owner": "dairui01",
+                "repo": "MS-TCT",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
               "title": "DDM-Net: \"Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection\", CVPR, 2022 (Nanjing University). [Paper",
               "description": "][PyTorch]",
               "children": [],
@@ -15092,21 +15107,6 @@
                 "owner": "MCG-NJU",
                 "repo": "DDM",
                 "stars": 56
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "MS-TCT: \"MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection\", CVPR, 2022 (INRIA). [Paper",
-              "description": "][PyTorch]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 466598515,
-                "language": "Python",
-                "last_commit": "2022-10-08T16:46:42Z",
-                "owner": "dairui01",
-                "repo": "MS-TCT",
-                "stars": 55
               }
             },
             {
@@ -17011,7 +17011,7 @@
                     "last_commit": "2025-02-27T23:15:27Z",
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4102
+                    "stars": 4105
                   }
                 },
                 {
@@ -17026,7 +17026,7 @@
                     "last_commit": "2023-12-08T13:44:48Z",
                     "owner": "MCG-NJU",
                     "repo": "VideoMAE",
-                    "stars": 1783
+                    "stars": 1784
                   }
                 },
                 {
@@ -17041,7 +17041,7 @@
                     "last_commit": "2024-10-08T05:04:52Z",
                     "owner": "OpenGVLab",
                     "repo": "VideoMAEv2",
-                    "stars": 815
+                    "stars": 816
                   }
                 },
                 {
@@ -17646,10 +17646,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-21T19:58:51Z",
+                    "last_commit": "2026-08-25T18:30:01Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38618
+                    "stars": 38623
                   }
                 }
               ]
@@ -17664,7 +17664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:29:34.677Z",
+    "last_updated": "2026-08-26T14:29:31.260Z",
     "original_repository": "cmhungsteve/Awesome-Transformer-Attention",
     "original_repository_id": 406653146,
     "original_repository_sha": "0653f4a10231dd2be1f96e781e73f1554233d1fc",
