@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T01:08:08Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17989
+            "stars": 17993
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-27T01:08:08Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17989
+            "stars": 17993
           }
         },
         {
@@ -848,7 +848,7 @@
                     "last_commit": "2024-07-24T17:09:57Z",
                     "owner": "microsoft",
                     "repo": "Swin-Transformer",
-                    "stars": 16051
+                    "stars": 16052
                   }
                 },
                 {
@@ -863,7 +863,7 @@
                     "last_commit": "2024-07-24T17:09:57Z",
                     "owner": "microsoft",
                     "repo": "Swin-Transformer",
-                    "stars": 16051
+                    "stars": 16052
                   }
                 },
                 {
@@ -893,7 +893,7 @@
                     "last_commit": "2026-08-10T06:59:24Z",
                     "owner": "PaddlePaddle",
                     "repo": "PaddleClas",
-                    "stars": 5838
+                    "stars": 5840
                   }
                 },
                 {
@@ -3479,7 +3479,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34239
+                    "stars": 34240
                   }
                 },
                 {
@@ -3494,7 +3494,7 @@
                     "last_commit": "2025-09-30T11:16:06Z",
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32231
+                    "stars": 32232
                   }
                 },
                 {
@@ -3509,7 +3509,7 @@
                     "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22197
                   }
                 },
                 {
@@ -3524,7 +3524,7 @@
                     "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22197
                   }
                 },
                 {
@@ -7861,7 +7861,7 @@
                 "archived": false,
                 "id": 385275507,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:53:31Z",
+                "last_commit": "2026-08-27T21:35:59Z",
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821
@@ -9354,7 +9354,7 @@
                     "archived": false,
                     "id": 385275507,
                     "language": "Python",
-                    "last_commit": "2026-08-10T09:53:31Z",
+                    "last_commit": "2026-08-27T21:35:59Z",
                     "owner": "google-research",
                     "repo": "scenic",
                     "stars": 3821
@@ -9861,7 +9861,7 @@
                 "last_commit": "2026-02-05T16:49:17Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleSeg",
-                "stars": 9382
+                "stars": 9384
               }
             },
             {
@@ -9876,7 +9876,7 @@
                 "last_commit": "2024-08-02T15:50:33Z",
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3630
+                "stars": 3631
               }
             },
             {
@@ -10517,7 +10517,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54766
+                    "stars": 54768
                   }
                 },
                 {
@@ -10544,7 +10544,7 @@
                     "archived": false,
                     "id": 199509705,
                     "language": "Python",
-                    "last_commit": "2026-08-26T16:36:58Z",
+                    "last_commit": "2026-08-27T22:51:41Z",
                     "owner": "autogluon",
                     "repo": "autogluon",
                     "stars": 10618
@@ -10577,7 +10577,7 @@
                     "last_commit": "2026-05-05T11:00:13Z",
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5859
+                    "stars": 5858
                   }
                 },
                 {
@@ -10592,7 +10592,7 @@
                     "last_commit": "2026-05-05T11:00:13Z",
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5859
+                    "stars": 5858
                   }
                 },
                 {
@@ -10989,7 +10989,7 @@
                     "last_commit": "2022-05-10T15:39:52Z",
                     "owner": "NVlabs",
                     "repo": "GroupViT",
-                    "stars": 789
+                    "stars": 790
                   }
                 },
                 {
@@ -11790,7 +11790,7 @@
                     "last_commit": "2023-07-18T13:02:16Z",
                     "owner": "MasterBin-IIAU",
                     "repo": "UNINEXT",
-                    "stars": 1278
+                    "stars": 1279
                   }
                 },
                 {
@@ -14090,7 +14090,7 @@
                     "archived": false,
                     "id": 385275507,
                     "language": "Python",
-                    "last_commit": "2026-08-10T09:53:31Z",
+                    "last_commit": "2026-08-27T21:35:59Z",
                     "owner": "google-research",
                     "repo": "scenic",
                     "stars": 3821
@@ -14938,7 +14938,7 @@
                 "archived": false,
                 "id": 385275507,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:53:31Z",
+                "last_commit": "2026-08-27T21:35:59Z",
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821
@@ -14953,7 +14953,7 @@
                 "archived": false,
                 "id": 385275507,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:53:31Z",
+                "last_commit": "2026-08-27T21:35:59Z",
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821
@@ -16106,7 +16106,7 @@
                     "last_commit": "2025-04-26T19:46:00Z",
                     "owner": "hkchengrex",
                     "repo": "Tracking-Anything-with-DEVA",
-                    "stars": 1509
+                    "stars": 1510
                   }
                 },
                 {
@@ -17011,7 +17011,7 @@
                     "last_commit": "2025-02-27T23:15:27Z",
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4106
+                    "stars": 4107
                   }
                 },
                 {
@@ -17026,7 +17026,7 @@
                     "last_commit": "2023-12-08T13:44:48Z",
                     "owner": "MCG-NJU",
                     "repo": "VideoMAE",
-                    "stars": 1785
+                    "stars": 1786
                   }
                 },
                 {
@@ -17206,7 +17206,7 @@
                     "last_commit": "2024-12-30T08:44:02Z",
                     "owner": "SMSD75",
                     "repo": "Timetuning",
-                    "stars": 30
+                    "stars": 31
                   }
                 },
                 {
@@ -17649,7 +17649,7 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38630
+                    "stars": 38632
                   }
                 }
               ]
@@ -17664,7 +17664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:47.154Z",
+    "last_updated": "2026-08-27T23:14:14.794Z",
     "original_repository_info": {
       "archived": false,
       "id": 406653146,
