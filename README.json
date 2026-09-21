@@ -19,7 +19,7 @@
             "open_issues": 112,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18029,
+            "stars": 18031,
             "topics": [
               "chain-of-thought",
               "in-context-learning",
@@ -54,7 +54,7 @@
             "open_issues": 112,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18029,
+            "stars": 18031,
             "topics": [
               "chain-of-thought",
               "in-context-learning",
@@ -85,11 +85,11 @@
             "id": 666960664,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-24T08:22:10Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-21T00:16:00Z",
+            "open_issues": 7,
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3285,
+            "stars": 3286,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.892Z"
@@ -193,7 +193,7 @@
             "open_issues": 0,
             "owner": "ChenHsing",
             "repo": "Awesome-Video-Diffusion-Models",
-            "stars": 2318,
+            "stars": 2319,
             "topics": [
               "awesome",
               "awesome-list",
@@ -246,7 +246,7 @@
             "open_issues": 2,
             "owner": "fahadshamshad",
             "repo": "awesome-transformers-in-medical-imaging",
-            "stars": 1295,
+            "stars": 1296,
             "topics": [
               "awesome-list",
               "brain-tumor-segmentation",
@@ -336,7 +336,7 @@
             "open_issues": 2,
             "owner": "jianzongwu",
             "repo": "Awesome-Open-Vocabulary",
-            "stars": 1005,
+            "stars": 1006,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -510,7 +510,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-10-30T13:12:14Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "GigaAI-research",
             "repo": "General-World-Models-Survey",
             "stars": 526,
@@ -1421,7 +1421,7 @@
                     "open_issues": 202,
                     "owner": "microsoft",
                     "repo": "Swin-Transformer",
-                    "stars": 16080,
+                    "stars": 16084,
                     "topics": [
                       "ade20k",
                       "image-classification",
@@ -1451,7 +1451,7 @@
                     "open_issues": 202,
                     "owner": "microsoft",
                     "repo": "Swin-Transformer",
-                    "stars": 16080,
+                    "stars": 16084,
                     "topics": [
                       "ade20k",
                       "image-classification",
@@ -1481,7 +1481,7 @@
                     "open_issues": 141,
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12717,
+                    "stars": 12718,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -1538,7 +1538,7 @@
                     "open_issues": 94,
                     "owner": "huawei-noah",
                     "repo": "Efficient-AI-Backbones",
-                    "stars": 4420,
+                    "stars": 4419,
                     "topics": [
                       "convolutional-neural-networks",
                       "efficient-inference",
@@ -1570,7 +1570,7 @@
                     "open_issues": 94,
                     "owner": "huawei-noah",
                     "repo": "Efficient-AI-Backbones",
-                    "stars": 4420,
+                    "stars": 4419,
                     "topics": [
                       "convolutional-neural-networks",
                       "efficient-inference",
@@ -1602,7 +1602,7 @@
                     "open_issues": 20,
                     "owner": "facebookresearch",
                     "repo": "deit",
-                    "stars": 4350,
+                    "stars": 4349,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -1782,7 +1782,7 @@
                     "open_issues": 7,
                     "owner": "LeapLabTHU",
                     "repo": "DAT",
-                    "stars": 943,
+                    "stars": 944,
                     "topics": [
                       "deep-learning",
                       "deformable-attention",
@@ -1809,7 +1809,7 @@
                     "open_issues": 7,
                     "owner": "LeapLabTHU",
                     "repo": "DAT",
-                    "stars": 943,
+                    "stars": 944,
                     "topics": [
                       "deep-learning",
                       "deformable-attention",
@@ -3257,7 +3257,7 @@
                     "open_issues": 94,
                     "owner": "huawei-noah",
                     "repo": "Efficient-AI-Backbones",
-                    "stars": 4420,
+                    "stars": 4419,
                     "topics": [
                       "convolutional-neural-networks",
                       "efficient-inference",
@@ -3289,7 +3289,7 @@
                     "open_issues": 20,
                     "owner": "facebookresearch",
                     "repo": "deit",
-                    "stars": 4350,
+                    "stars": 4349,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -3349,7 +3349,7 @@
                     "open_issues": 108,
                     "owner": "mit-han-lab",
                     "repo": "efficientvit",
-                    "stars": 3360,
+                    "stars": 3361,
                     "topics": [
                       "deep-compression-autoencoder",
                       "efficient-diffusion-model",
@@ -3574,7 +3574,7 @@
                     "open_issues": 55,
                     "owner": "microsoft",
                     "repo": "Tutel",
-                    "stars": 1019,
+                    "stars": 1020,
                     "topics": [
                       "deepseek",
                       "llm",
@@ -5018,7 +5018,7 @@
                     "open_issues": 50,
                     "owner": "apple-aiml-research",
                     "repo": "ml-cvnets",
-                    "stars": 1990,
+                    "stars": 1989,
                     "topics": [
                       "ade20k",
                       "classification",
@@ -5051,7 +5051,7 @@
                     "open_issues": 50,
                     "owner": "apple-aiml-research",
                     "repo": "ml-cvnets",
-                    "stars": 1990,
+                    "stars": 1989,
                     "topics": [
                       "ade20k",
                       "classification",
@@ -5669,7 +5669,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34330,
+                    "stars": 34342,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -5693,7 +5693,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32221,
+                    "stars": 32220,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -5714,11 +5714,11 @@
                     "id": 198350484,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T10:47:48Z",
-                    "open_issues": 686,
+                    "last_commit": "2026-09-21T03:27:00Z",
+                    "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22220,
+                    "stars": 22225,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -5756,11 +5756,11 @@
                     "id": 198350484,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T10:47:48Z",
-                    "open_issues": 686,
+                    "last_commit": "2026-09-21T03:27:00Z",
+                    "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22220,
+                    "stars": 22225,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -5802,7 +5802,7 @@
                     "open_issues": 141,
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12717,
+                    "stars": 12718,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -8856,7 +8856,7 @@
                     "open_issues": 141,
                     "owner": "google-research",
                     "repo": "vision_transformer",
-                    "stars": 12717,
+                    "stars": 12718,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -8877,7 +8877,7 @@
                     "open_issues": 94,
                     "owner": "huawei-noah",
                     "repo": "Efficient-AI-Backbones",
-                    "stars": 4420,
+                    "stars": 4419,
                     "topics": [
                       "convolutional-neural-networks",
                       "efficient-inference",
@@ -9187,7 +9187,7 @@
                     "open_issues": 57,
                     "owner": "facebookresearch",
                     "repo": "ConvNeXt",
-                    "stars": 6411,
+                    "stars": 6410,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -9208,7 +9208,7 @@
                     "open_issues": 112,
                     "owner": "hustvl",
                     "repo": "Vim",
-                    "stars": 3905,
+                    "stars": 3906,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -9229,7 +9229,7 @@
                     "open_issues": 270,
                     "owner": "MzeroMiko",
                     "repo": "VMamba",
-                    "stars": 3228,
+                    "stars": 3230,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -9340,7 +9340,7 @@
                     "open_issues": 9,
                     "owner": "ma-xu",
                     "repo": "Context-Cluster",
-                    "stars": 575,
+                    "stars": 574,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -9631,7 +9631,7 @@
                 "open_issues": 141,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12717,
+                "stars": 12718,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:28.892Z"
@@ -10300,7 +10300,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4026,
+                    "stars": 4025,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -10321,7 +10321,7 @@
                     "open_issues": 66,
                     "owner": "IDEA-Research",
                     "repo": "MaskDINO",
-                    "stars": 1562,
+                    "stars": 1563,
                     "topics": [
                       "instance-segmentation",
                       "object-detection",
@@ -10394,7 +10394,7 @@
                     "open_issues": 94,
                     "owner": "huawei-noah",
                     "repo": "noah-research",
-                    "stars": 1009,
+                    "stars": 1010,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -11377,7 +11377,7 @@
                     "open_issues": 154,
                     "owner": "IDEA-Research",
                     "repo": "DINO",
-                    "stars": 2841,
+                    "stars": 2844,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -11940,7 +11940,7 @@
                 "open_issues": 18,
                 "owner": "zhenyuw16",
                 "repo": "Uni3DETR",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:28.892Z"
@@ -12406,7 +12406,7 @@
                 "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3832,
+                "stars": 3833,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -13214,7 +13214,7 @@
                     "open_issues": 942,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleDetection",
-                    "stars": 14422,
+                    "stars": 14426,
                     "topics": [
                       "blazeface",
                       "deepsort",
@@ -13609,10 +13609,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-08-21T02:01:07Z",
-                    "open_issues": 1962,
+                    "open_issues": 1963,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32942,
+                    "stars": 32948,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -13654,7 +13654,7 @@
                     "open_issues": 421,
                     "owner": "AILab-CVC",
                     "repo": "YOLO-World",
-                    "stars": 6565,
+                    "stars": 6569,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -13675,7 +13675,7 @@
                     "open_issues": 17,
                     "owner": "IDEA-Research",
                     "repo": "T-Rex",
-                    "stars": 2706,
+                    "stars": 2708,
                     "topics": [
                       "interactive",
                       "object-counting",
@@ -14731,7 +14731,7 @@
                     "open_issues": 305,
                     "owner": "google-research",
                     "repo": "scenic",
-                    "stars": 3832,
+                    "stars": 3833,
                     "topics": [
                       "attention",
                       "computer-vision",
@@ -15448,7 +15448,7 @@
                 "open_issues": 29,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleSeg",
-                "stars": 9391,
+                "stars": 9393,
                 "topics": [
                   "autonomous-driving",
                   "human-segmentation",
@@ -15481,7 +15481,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3657,
+                "stars": 3659,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -16034,7 +16034,7 @@
                 "open_issues": 137,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8216,
+                "stars": 8218,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -16425,7 +16425,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54892,
+                    "stars": 54901,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -16446,7 +16446,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17731,
+                    "stars": 17732,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -16472,11 +16472,11 @@
                     "id": 199509705,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-19T17:05:20Z",
-                    "open_issues": 380,
+                    "last_commit": "2026-09-21T09:04:39Z",
+                    "open_issues": 381,
                     "owner": "autogluon",
                     "repo": "autogluon",
-                    "stars": 10696,
+                    "stars": 10727,
                     "topics": [
                       "autogluon",
                       "automated-machine-learning",
@@ -16602,7 +16602,7 @@
                     "open_issues": 110,
                     "owner": "SysCV",
                     "repo": "sam-hq",
-                    "stars": 4258,
+                    "stars": 4260,
                     "topics": [
                       "high-quality",
                       "sam",
@@ -16630,7 +16630,7 @@
                     "open_issues": 108,
                     "owner": "mit-han-lab",
                     "repo": "efficientvit",
-                    "stars": 3360,
+                    "stars": 3361,
                     "topics": [
                       "deep-compression-autoencoder",
                       "efficient-diffusion-model",
@@ -16702,7 +16702,7 @@
                     "open_issues": 29,
                     "owner": "chongzhou96",
                     "repo": "EdgeSAM",
-                    "stars": 1178,
+                    "stars": 1179,
                     "topics": [
                       "coreml",
                       "on-device-ai",
@@ -16816,7 +16816,7 @@
                     "open_issues": 7,
                     "owner": "xinghaochen",
                     "repo": "TinySAM",
-                    "stars": 557,
+                    "stars": 558,
                     "topics": [
                       "efficient-sam",
                       "sam",
@@ -16994,7 +16994,7 @@
                     "open_issues": 5,
                     "owner": "chengtao-lv",
                     "repo": "PTQ4SAM",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -17766,7 +17766,7 @@
                     "open_issues": 5,
                     "owner": "xb534",
                     "repo": "SED",
-                    "stars": 201,
+                    "stars": 202,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -17932,7 +17932,7 @@
                     "open_issues": 6,
                     "owner": "InternRobotics",
                     "repo": "OV_PARTS",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -19139,7 +19139,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2595,
+                    "stars": 2596,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -21237,7 +21237,7 @@
                     "open_issues": 12,
                     "owner": "ShirAmir",
                     "repo": "dino-vit-features",
-                    "stars": 473,
+                    "stars": 474,
                     "topics": [
                       "co-segmentation",
                       "computer-vision",
@@ -21387,7 +21387,7 @@
                     "open_issues": 10,
                     "owner": "segments-ai",
                     "repo": "latent-diffusion-segmentation",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": [
                       "diffusion-models",
                       "generative-ai",
@@ -21784,7 +21784,7 @@
                     "open_issues": 5,
                     "owner": "MengLcool",
                     "repo": "SEGIC",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -21825,7 +21825,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7421,
+                    "stars": 7423,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -21846,7 +21846,7 @@
                     "open_issues": 305,
                     "owner": "google-research",
                     "repo": "scenic",
-                    "stars": 3832,
+                    "stars": 3833,
                     "topics": [
                       "attention",
                       "computer-vision",
@@ -23005,7 +23005,7 @@
                     "open_issues": 45,
                     "owner": "Walter0807",
                     "repo": "MotionBERT",
-                    "stars": 1448,
+                    "stars": 1449,
                     "topics": [
                       "3d-pose-estimation",
                       "iccv2023",
@@ -23103,7 +23103,7 @@
                 "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3832,
+                "stars": 3833,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -23132,7 +23132,7 @@
                 "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3832,
+                "stars": 3833,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -23350,27 +23350,6 @@
             },
             {
               "node_type": "item",
-              "title": "MS-TCT: \"MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection\", CVPR, 2022 (INRIA). [Paper",
-              "description": "][PyTorch]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR2022] MS-TCT",
-                "homepage": null,
-                "id": 466598515,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-10-08T16:46:42Z",
-                "open_issues": 2,
-                "owner": "dairui01",
-                "repo": "MS-TCT",
-                "stars": 56,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:13:28.892Z"
-            },
-            {
-              "node_type": "item",
               "title": "DDM-Net: \"Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection\", CVPR, 2022 (Nanjing University). [Paper",
               "description": "][PyTorch]",
               "children": [],
@@ -23385,6 +23364,27 @@
                 "open_issues": 7,
                 "owner": "MCG-NJU",
                 "repo": "DDM",
+                "stars": 57,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:28.892Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MS-TCT: \"MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection\", CVPR, 2022 (INRIA). [Paper",
+              "description": "][PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR2022] MS-TCT",
+                "homepage": null,
+                "id": 466598515,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-10-08T16:46:42Z",
+                "open_issues": 2,
+                "owner": "dairui01",
+                "repo": "MS-TCT",
                 "stars": 56,
                 "topics": []
               },
@@ -23845,7 +23845,7 @@
                 "open_issues": 11,
                 "owner": "hkchengrex",
                 "repo": "Cutie",
-                "stars": 1105,
+                "stars": 1106,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -25378,7 +25378,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2389,
+                    "stars": 2392,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -26224,7 +26224,7 @@
                     "open_issues": 65,
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4146,
+                    "stars": 4148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -27155,11 +27155,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T19:46:42Z",
+                    "last_commit": "2026-09-21T18:29:19Z",
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38805,
+                    "stars": 38807,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -27180,7 +27180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:02:07.345Z",
+    "last_updated": "2026-09-21T18:55:32.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
