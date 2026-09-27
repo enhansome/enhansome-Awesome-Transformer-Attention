@@ -3,7 +3,7 @@
 This repo contains a comprehensive paper list of **Vision Transformer & Attention**, including papers, codes, and related websites. <br>
 This list is maintained by [Min-Hung Chen](https://minhungchen.netlify.app/). (*Actively* keep updating)
 
-If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/cmhungsteve/Awesome-Transformer-Attention/blob/main/How-to-PR.md) ⭐ 5,047 | 🐛 23 | 📅 2024-07-30, [*open issues*](https://github.com/cmhungsteve/Awesome-Transformer-Attention/issues/new) ⭐ 5,047 | 🐛 23 | 📅 2024-07-30, or [*email* me](mailto:vitec6@gmail.com)**. <br>
+If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/cmhungsteve/Awesome-Transformer-Attention/blob/main/How-to-PR.md) ⭐ 5,046 | 🐛 23 | 📅 2024-07-30, [*open issues*](https://github.com/cmhungsteve/Awesome-Transformer-Attention/issues/new) ⭐ 5,046 | 🐛 23 | 📅 2024-07-30, or [*email* me](mailto:vitec6@gmail.com)**. <br>
 Contributions in any form to make this list more comprehensive are welcome.
 
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. <br>
@@ -137,11 +137,11 @@ If you find this repository useful, please consider citing this list:
 
 * "A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise", arXiv, 2023 (*Tencent*). \[[Paper](https://arxiv.org/abs/2312.12436)][GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,040 | 🐛 114 | 📅 2026-09-18]
 * "A Survey on Multimodal Large Language Models", arXiv, 2023 (*USTC*). \[[Paper](https://arxiv.org/abs/2306.13549)]\[[GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,040 | 🐛 114 | 📅 2026-09-18]
-* "Video Understanding with Large Language Models: A Survey", arXiv, 2023 (*University of Rochester*). \[[Paper](https://arxiv.org/abs/2312.17432)]\[[GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,290 | 🐛 8 | 📅 2026-09-24]
+* "Video Understanding with Large Language Models: A Survey", arXiv, 2023 (*University of Rochester*). \[[Paper](https://arxiv.org/abs/2312.17432)]\[[GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,290 | 🐛 7 | 📅 2026-09-27]
 * "Vision-Language Models for Vision Tasks: A Survey", arXiv, 2023 (*?*). \[[Paper](https://arxiv.org/abs/2304.00685)]\[[GitHub (in construction)](https://github.com/jingyi0000/VLM_survey) ⭐ 3,126 | 🐛 3 | 📅 2026-09-16]
 * "Attention mechanisms in computer vision: A survey", Computational Visual Media, 2022 (*Tsinghua University, China*). \[[Paper](https://arxiv.org/abs/2111.07624)]\[[Springer](https://link.springer.com/article/10.1007/s41095-022-0271-y)]\[[Github](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) ⭐ 2,842 | 🐛 5 | 🌐 Python | 📅 2024-10-20]
-* "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). \[[Paper](https://arxiv.org/abs/2305.14598)]\[[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) ⭐ 2,446 | 🐛 2 | 📅 2026-08-13]
-* "A Survey on Video Diffusion Models", arXiv, 2023 (*Fudan*). \[[Paper](https://arxiv.org/abs/2310.10647)]\[[GitHub](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) ⭐ 2,320 | 🐛 1 | 📅 2026-09-04]
+* "Vision + Language Applications: A Survey", CVPRW, 2023 (*Ritsumeikan University, Japan*). \[[Paper](https://arxiv.org/abs/2305.14598)]\[[GitHub](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) ⭐ 2,447 | 🐛 2 | 📅 2026-08-13]
+* "A Survey on Video Diffusion Models", arXiv, 2023 (*Fudan*). \[[Paper](https://arxiv.org/abs/2310.10647)]\[[GitHub](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) ⭐ 2,319 | 🐛 1 | 📅 2026-09-04]
 * "When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models", arXiv, 2024 (*Oxford*). \[[Paper](https://arxiv.org/abs/2405.10255)]\[[GitHub](https://github.com/ActiveVisionLab/Awesome-LLM-3D) ⭐ 2,263 | 🐛 8 | 📅 2026-04-16]
 * "Transformers in Medical Imaging: A Survey", arXiv, 2022 (*MBZUAI*). \[[Paper](https://arxiv.org/abs/2201.09873)]\[[GitHub](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) ⭐ 1,298 | 🐛 2 | 📅 2026-06-21]
 * "Controllable Generation with Text-to-Image Diffusion Models: A Survey", arXiv, 2024 (*Beijing University of Posts and Telecommunications*). \[[Paper](https://arxiv.org/abs/2403.04279)]\[[GitHub](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) ⭐ 1,111 | 🐛 4 | 📅 2024-12-31]
@@ -167,7 +167,7 @@ If you find this repository useful, please consider citing this list:
 * "From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models", arXiv, 2024 (*UIUC*). \[[Paper](https://arxiv.org/abs/2403.12027)]\[[GitHub](https://github.com/khuangaf/Awesome-Chart-Understanding) ⭐ 241 | 🐛 3 | 📅 2025-12-17]
 * "Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review", arXiv, 2023 (*RWTH Aachen University, Germany*). \[[Paper](https://arxiv.org/abs/2301.03505)]\[[GitHub](https://github.com/mindflow-institue/Awesome-Transformer) ⭐ 224 | 🐛 0 | 📅 2023-11-10]
 * "A Survey of Visual Transformers", TNNLS, 2023 (*CAS*). \[[Paper](https://arxiv.org/abs/2111.06091)]\[[GitHub](https://github.com/arekavandi/Transformer-SOD) ⭐ 172 | 🐛 0 | 📅 2025-07-29]
-* "Foundation Models for Video Understanding: A Survey", arXiv, 2024 (*Aalborg University, Denmark*). \[[Paper](https://arxiv.org/abs/2405.03770)]\[[GitHub](https://github.com/NeeluMadan/ViFM_Survey) ⭐ 145 | 🐛 0 | 📅 2025-07-09]
+* "Foundation Models for Video Understanding: A Survey", arXiv, 2024 (*Aalborg University, Denmark*). \[[Paper](https://arxiv.org/abs/2405.03770)]\[[GitHub](https://github.com/NeeluMadan/ViFM_Survey) ⭐ 144 | 🐛 0 | 📅 2025-07-09]
 * "Vision Mamba: A Comprehensive Survey and Taxonomy", arXiv, 2024 (*Chongqing University*). \[[Paper](https://arxiv.org/abs/2405.04404)]\[[GitHub](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy) ⭐ 102 | 🐛 1 | 📅 2026-05-26]
 * "Vision-Language Instruction Tuning: A Review and Analysis", arXiv, 2023 (*Tencent*). \[[Paper](https://arxiv.org/abs/2311.08172)]\[[GitHub (in construction)](https://github.com/palchenli/VL-Instruction-Tuning) ⭐ 90 | 🐛 4 | 📅 2023-11-25]
 * "Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey", arXiv, 2023 (*valeo.ai, France*). \[[Paper](https://arxiv.org/abs/2310.12904)]\[[GitHub](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization) ⭐ 74 | 🐛 2 | 📅 2024-08-19]
@@ -249,7 +249,7 @@ If you find this repository useful, please consider citing this list:
 
 #### Pure Attention
 
-* **SAN**: "Exploring Self-attention for Image Recognition", CVPR, 2020 (*CUHK + Intel*). \[[Paper](https://arxiv.org/abs/2004.13621)]\[[PyTorch](https://github.com/hszhao/SAN) ⭐ 750 | 🐛 9 | 🌐 Python | 📅 2020-06-15]
+* **SAN**: "Exploring Self-attention for Image Recognition", CVPR, 2020 (*CUHK + Intel*). \[[Paper](https://arxiv.org/abs/2004.13621)]\[[PyTorch](https://github.com/hszhao/SAN) ⭐ 751 | 🐛 9 | 🌐 Python | 📅 2020-06-15]
 * **Axial-DeepLab**: "Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation", ECCV, 2020 (*Google*). \[[Paper](https://arxiv.org/abs/2003.07853)]\[[PyTorch](https://github.com/csrhddlam/axial-deeplab) ⭐ 459 | 🐛 14 | 🌐 Python | 📅 2021-06-22]
 * **SASA**: "Stand-Alone Self-Attention in Vision Models", NeurIPS, 2019 (*Google*). \[[Paper](https://arxiv.org/abs/1906.05909)]\[[PyTorch-1 (leaderj1001)](https://github.com/leaderj1001/Stand-Alone-Self-Attention) ⭐ 458 | 🐛 18 | 🌐 Python | 📅 2020-02-13]\[[PyTorch-2 (MerHS)](https://github.com/MerHS/SASA-pytorch) ⭐ 45 | 🐛 4 | 🌐 Python | 📅 2019-07-01]
 * **Axial-Transformer**: "Axial Attention in Multidimensional Transformers", arXiv, 2019 (*Google*). \[[Paper](https://openreview.net/forum?id=H1e5GJBtDr)]\[[PyTorch (lucidrains)](https://github.com/lucidrains/axial-attention) ⭐ 394 | 🐛 5 | 🌐 Python | 📅 2021-08-26]
@@ -278,12 +278,12 @@ If you find this repository useful, please consider citing this list:
 
 #### General Vision Transformer
 
-* **Swin-Transformer**: "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV, 2021 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2103.14030)]\[[PyTorch](https://github.com/microsoft/Swin-Transformer) ⭐ 16,082 | 🐛 202 | 🌐 Python | 📅 2024-07-24]\[[PyTorch (berniwal)](https://github.com/berniwal/swin-transformer-pytorch) ⭐ 864 | 🐛 14 | 🌐 Python | 📅 2021-03-29]
-* **Swin-Transformer-V2**: "Swin Transformer V2: Scaling Up Capacity and Resolution", CVPR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2111.09883)]\[[PyTorch](https://github.com/microsoft/Swin-Transformer) ⭐ 16,082 | 🐛 202 | 🌐 Python | 📅 2024-07-24]
-* **ViT**: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale", ICLR, 2021 (*Google*). \[[Paper](https://openreview.net/forum?id=YicbFdNTTy)]\[[Tensorflow](https://github.com/google-research/vision_transformer) ⭐ 12,728 | 🐛 141 | 🌐 Jupyter Notebook | 📅 2026-08-01]\[[PyTorch (lucidrains)](https://github.com/lucidrains/vit-pytorch) ⭐ 25,523 | 🐛 142 | 🌐 Python | 📅 2026-09-20]\[[JAX (conceptofmind)](https://github.com/conceptofmind/vit-flax) ⚠️ Archived]
+* **Swin-Transformer**: "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV, 2021 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2103.14030)]\[[PyTorch](https://github.com/microsoft/Swin-Transformer) ⭐ 16,083 | 🐛 202 | 🌐 Python | 📅 2024-07-24]\[[PyTorch (berniwal)](https://github.com/berniwal/swin-transformer-pytorch) ⭐ 864 | 🐛 14 | 🌐 Python | 📅 2021-03-29]
+* **Swin-Transformer-V2**: "Swin Transformer V2: Scaling Up Capacity and Resolution", CVPR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2111.09883)]\[[PyTorch](https://github.com/microsoft/Swin-Transformer) ⭐ 16,083 | 🐛 202 | 🌐 Python | 📅 2024-07-24]
+* **ViT**: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale", ICLR, 2021 (*Google*). \[[Paper](https://openreview.net/forum?id=YicbFdNTTy)]\[[Tensorflow](https://github.com/google-research/vision_transformer) ⭐ 12,727 | 🐛 141 | 🌐 Jupyter Notebook | 📅 2026-08-01]\[[PyTorch (lucidrains)](https://github.com/lucidrains/vit-pytorch) ⭐ 25,524 | 🐛 142 | 🌐 Python | 📅 2026-09-20]\[[JAX (conceptofmind)](https://github.com/conceptofmind/vit-flax) ⚠️ Archived]
 * **MixFormer**: "MixFormer: Mixing Features across Windows and Dimensions", CVPR, 2022 (*Baidu*). \[[Paper](https://arxiv.org/abs/2204.02557)]\[[Paddle](https://github.com/PaddlePaddle/PaddleClas) ⭐ 5,848 | 🐛 127 | 🌐 Python | 📅 2026-09-15]
-* **TNT**: "Transformer in Transformer", NeurIPS, 2021 (*Huawei*). \[[Paper](https://arxiv.org/abs/2103.00112)]\[[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch) ⭐ 4,420 | 🐛 94 | 🌐 Python | 📅 2025-03-15]\[[PyTorch (lucidrains)](https://github.com/lucidrains/transformer-in-transformer) ⭐ 306 | 🐛 6 | 🌐 Python | 📅 2021-12-27]
-* **PyramidTNT**: "PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture", CVPRW, 2022 (*Huawei*). \[[Paper](https://arxiv.org/abs/2201.00978)]\[[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch) ⭐ 4,420 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* **TNT**: "Transformer in Transformer", NeurIPS, 2021 (*Huawei*). \[[Paper](https://arxiv.org/abs/2103.00112)]\[[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch) ⭐ 4,421 | 🐛 94 | 🌐 Python | 📅 2025-03-15]\[[PyTorch (lucidrains)](https://github.com/lucidrains/transformer-in-transformer) ⭐ 306 | 🐛 6 | 🌐 Python | 📅 2021-12-27]
+* **PyramidTNT**: "PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture", CVPRW, 2022 (*Huawei*). \[[Paper](https://arxiv.org/abs/2201.00978)]\[[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch) ⭐ 4,421 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 * **CaiT**: "Going deeper with Image Transformers", ICCV, 2021 (*Facebook*). \[[Paper](https://arxiv.org/abs/2103.17239)]\[[PyTorch](https://github.com/facebookresearch/deit) ⚠️ Archived]
 * **PVT**: "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions", ICCV, 2021 (*Nanjing University*). \[[Paper](https://arxiv.org/abs/2102.12122)]\[[PyTorch](https://github.com/whai362/PVT) ⭐ 1,905 | 🐛 42 | 🌐 Python | 📅 2022-10-27]
 * **PvTv2**: "PVTv2: Improved Baselines with Pyramid Vision Transformer", arXiv, 2021 (*Nanjing University*). \[[Paper](https://arxiv.org/abs/2106.13797)]\[[PyTorch](https://github.com/whai362/PVT) ⭐ 1,905 | 🐛 42 | 🌐 Python | 📅 2022-10-27]
@@ -291,8 +291,8 @@ If you find this repository useful, please consider citing this list:
 * **Perceiver**: "Perceiver: General Perception with Iterative Attention", ICML, 2021 (*DeepMind*). \[[Paper](https://arxiv.org/abs/2103.03206)]\[[PyTorch (lucidrains)](https://github.com/lucidrains/perceiver-pytorch) ⭐ 1,219 | 🐛 31 | 🌐 Python | 📅 2026-09-21]
 * **T2T-ViT**: "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet", ICCV, 2021 (*Yitu*). \[[Paper](https://arxiv.org/abs/2101.11986)]\[[PyTorch](https://github.com/yitu-opensource/T2T-ViT) ⭐ 1,193 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2023-10-27]
 * **NAT**: "Neighborhood Attention Transformer", arXiv, 2022 (*Oregon*). \[[Paper](https://arxiv.org/abs/2204.07143)]\[[PyTorch](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer) ⭐ 1,186 | 🐛 6 | 🌐 Python | 📅 2024-05-15]
-* **DAT**: "Vision Transformer with Deformable Attention", CVPR, 2022 (*Tsinghua*). \[[Paper](https://arxiv.org/abs/2201.00520)]\[[PyTorch](https://github.com/LeapLabTHU/DAT) ⭐ 945 | 🐛 7 | 🌐 Python | 📅 2024-04-17]
-* **DAT++**: "DAT++: Spatially Dynamic Vision Transformer with Deformable Attention", arXiv, 2023 (*Tsinghua*). \[[Paper](https://arxiv.org/abs/2309.01430)]\[[PyTorch](https://github.com/LeapLabTHU/DAT) ⭐ 945 | 🐛 7 | 🌐 Python | 📅 2024-04-17]
+* **DAT**: "Vision Transformer with Deformable Attention", CVPR, 2022 (*Tsinghua*). \[[Paper](https://arxiv.org/abs/2201.00520)]\[[PyTorch](https://github.com/LeapLabTHU/DAT) ⭐ 946 | 🐛 7 | 🌐 Python | 📅 2024-04-17]
+* **DAT++**: "DAT++: Spatially Dynamic Vision Transformer with Deformable Attention", arXiv, 2023 (*Tsinghua*). \[[Paper](https://arxiv.org/abs/2309.01430)]\[[PyTorch](https://github.com/LeapLabTHU/DAT) ⭐ 946 | 🐛 7 | 🌐 Python | 📅 2024-04-17]
 * **Agent-Attention**: "Agent Attention: On the Integration of Softmax and Linear Attention", arXiv, 2023 (*Tsinghua*). \[[Paper](https://arxiv.org/abs/2312.08874)]\[[PyTorch](https://github.com/LeapLabTHU/Agent-Attention) ⭐ 669 | 🐛 17 | 🌐 Python | 📅 2024-11-17]
 * **Twins**: "Twins: Revisiting Spatial Attention Design in Vision Transformers", NeurIPS, 2021 (*Meituan*). \[[Paper](https://arxiv.org/abs/2104.13840)]\[[PyTorch)](https://github.com/Meituan-AutoML/Twins) ⭐ 611 | 🐛 13 | 🌐 Python | 📅 2023-02-14]
 * **CSWin**: "CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows", CVPR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2107.00652)]\[[PyTorch](https://github.com/microsoft/CSWin-Transformer) ⭐ 586 | 🐛 32 | 🌐 Python | 📅 2023-11-01]
@@ -300,7 +300,7 @@ If you find this repository useful, please consider citing this list:
 * **Focal**: "Focal Attention for Long-Range Interactions in Vision Transformers", NeurIPS, 2021 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2107.00641)]\[[PyTorch](https://github.com/microsoft/Focal-Transformer) ⚠️ Archived]
 * **MaxViT**: "MaxViT: Multi-Axis Vision Transformer", ECCV, 2022 (*Google*). \[[Paper](https://arxiv.org/abs/2204.01697)]\[[Tensorflow](https://github.com/google-research/maxvit) ⚠️ Archived]
 * **GC-ViT**: "Global Context Vision Transformers", ICML, 2023 (*NVIDIA*). \[[Paper](https://arxiv.org/abs/2206.09959)]\[[PyTorch](https://github.com/NVlabs/GCViT) ⭐ 449 | 🐛 17 | 🌐 Python | 📅 2023-12-22]
-* **FLatten-Transformer**: "FLatten Transformer: Vision Transformer using Focused Linear Attention", ICCV, 2023 (*Tsinghua*). \[[Paper](https://arxiv.org/abs/2308.00442)]\[[PyTorch](https://github.com/LeapLabTHU/FLatten-Transformer) ⭐ 448 | 🐛 12 | 🌐 Python | 📅 2024-11-04]
+* **FLatten-Transformer**: "FLatten Transformer: Vision Transformer using Focused Linear Attention", ICCV, 2023 (*Tsinghua*). \[[Paper](https://arxiv.org/abs/2308.00442)]\[[PyTorch](https://github.com/LeapLabTHU/FLatten-Transformer) ⭐ 447 | 🐛 12 | 🌐 Python | 📅 2024-11-04]
 * **LV-ViT**: "All Tokens Matter: Token Labeling for Training Better Vision Transformers", NeurIPS, 2021 (*ByteDance*). \[[Paper](https://arxiv.org/abs/2104.10858)]\[[PyTorch](https://github.com/zihangJiang/TokenLabeling) ⭐ 436 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-09-05]
 * **CrossFormer**: "CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention", ICLR, 2022 (*Zhejiang University*). \[[Paper](https://arxiv.org/abs/2108.00154)]\[[PyTorch](https://github.com/cheerss/CrossFormer) ⭐ 404 | 🐛 11 | 🌐 Python | 📅 2024-01-14]
 * **CrossFormer++**: "CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention", arXiv, 2023 (*Zhejiang University*). \[[Paper](https://arxiv.org/abs/2303.06908)]\[[PyTorch](https://github.com/cheerss/CrossFormer) ⭐ 404 | 🐛 11 | 🌐 Python | 📅 2024-01-14]
@@ -420,7 +420,7 @@ If you find this repository useful, please consider citing this list:
 
 #### Efficient Vision Transformer
 
-* **GhostNetV2**: "GhostNetV2: Enhance Cheap Operation with Long-Range Attention", NeurIPS, 2022 (*Huawei*). \[[Paper](https://arxiv.org/abs/2211.12905)]\[[PyTorch](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/ghostnetv2_pytorch) ⭐ 4,420 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* **GhostNetV2**: "GhostNetV2: Enhance Cheap Operation with Long-Range Attention", NeurIPS, 2022 (*Huawei*). \[[Paper](https://arxiv.org/abs/2211.12905)]\[[PyTorch](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/ghostnetv2_pytorch) ⭐ 4,421 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 * **DeiT**: "Training data-efficient image transformers & distillation through attention", ICML, 2021 (*Facebook*). \[[Paper](https://arxiv.org/abs/2012.12877)]\[[PyTorch](https://github.com/facebookresearch/deit) ⚠️ Archived]
 * **RIFormer**: "RIFormer: Keep Your Vision Backbone Effective While Removing Token Mixer", CVPR, 2023 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2304.05659)]\[[PyTorch](https://github.com/open-mmlab/mmpretrain/tree/main/configs/riformer) ⭐ 3,855 | 🐛 273 | 🌐 Python | 📅 2024-11-01]\[[Website](https://techmonsterwang.github.io/RIFormer/)]
 * **EfficientViT**: "EfficientViT: Enhanced Linear Attention for High-Resolution Low-Computation Visual Recognition", ICCV, 2023 (*MIT*). \[[Paper](https://arxiv.org/abs/2205.14756)]\[[PyTorch](https://github.com/mit-han-lab/efficientvit) ⭐ 3,365 | 🐛 108 | 🌐 Python | 📅 2025-09-05]
@@ -455,7 +455,7 @@ If you find this repository useful, please consider citing this list:
 * **LightViT**: "LightViT: Towards Light-Weight Convolution-Free Vision Transformers", arXiv, 2022 (*SenseTime*). \[[Paper](https://arxiv.org/abs/2207.05557)]\[[Code (in construction)](https://github.com/hunto/LightViT) ⭐ 143 | 🐛 2 | 🌐 Python | 📅 2022-07-26]
 * **M<sup>3</sup>ViT**: "M<sup>3</sup>ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design", NeurIPS, 2022 (*UT Austin*). \[[Paper](https://arxiv.org/abs/2210.14793)]\[[PyTorch](https://github.com/VITA-Group/M3ViT) ⭐ 137 | 🐛 3 | 🌐 Python | 📅 2022-11-30]
 * **Visformer**: "Visformer: The Vision-friendly Transformer", ICCV, 2021 (*Beihang University*). \[[Paper](https://arxiv.org/abs/2104.12533)]\[[PyTorch](https://github.com/danczs/Visformer) ⭐ 136 | 🐛 8 | 🌐 Python | 📅 2023-02-10]
-* **Rev-MViT**: "Reversible Vision Transformers", CVPR, 2022 (*Meta*). \[[Paper](https://arxiv.org/abs/2302.04869)]\[[PyTorch-1](https://github.com/karttikeya/minREV) ⭐ 127 | 🐛 4 | 🌐 Python | 📅 2024-03-14]\[[PyTorch-2](https://github.com/facebookresearch/slowfast) ⭐ 7,423 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
+* **Rev-MViT**: "Reversible Vision Transformers", CVPR, 2022 (*Meta*). \[[Paper](https://arxiv.org/abs/2302.04869)]\[[PyTorch-1](https://github.com/karttikeya/minREV) ⭐ 127 | 🐛 4 | 🌐 Python | 📅 2024-03-14]\[[PyTorch-2](https://github.com/facebookresearch/slowfast) ⭐ 7,426 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
 * **LocalViT**: "LocalViT: Bringing Locality to Vision Transformers", arXiv, 2021 (*ETHZ*). \[[Paper](https://arxiv.org/abs/2104.05707)]\[[PyTorch](https://github.com/ofsoundof/LocalViT) ⭐ 118 | 🐛 2 | 🌐 Python | 📅 2026-01-17]
 * **EdgeViT**: "EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers", ECCV, 2022 (*Samsung*). \[[Paper](https://arxiv.org/abs/2205.03436)]\[[PyTorch](https://github.com/saic-fi/edgevit) ⭐ 118 | 🐛 7 | 🌐 Python | 📅 2023-03-14]
 * **QnA**: "Learned Queries for Efficient Local Attention", CVPR, 2022 (*Tel-Aviv*). \[[Paper](https://arxiv.org/abs/2112.11435)]\[[JAX](https://github.com/moabarar/qna) ⭐ 117 | 🐛 5 | 🌐 Python | 📅 2022-04-19]
@@ -599,11 +599,11 @@ If you find this repository useful, please consider citing this list:
 
 #### Training + Transformer
 
-* **CLIP**: "Learning Transferable Visual Models From Natural Language Supervision", ICML, 2021 (*OpenAI*). \[[Paper](https://arxiv.org/abs/2103.00020)]\[[PyTorch](https://github.com/openai/CLIP) ⭐ 34,372 | 🐛 273 | 🌐 Jupyter Notebook | 📅 2026-03-25]
+* **CLIP**: "Learning Transferable Visual Models From Natural Language Supervision", ICML, 2021 (*OpenAI*). \[[Paper](https://arxiv.org/abs/2103.00020)]\[[PyTorch](https://github.com/openai/CLIP) ⭐ 34,376 | 🐛 273 | 🌐 Jupyter Notebook | 📅 2026-03-25]
 * **data2vec**: "data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language", ICML, 2022 (*Meta*). \[[Paper](https://arxiv.org/abs/2202.03555)]\[[PyTorch](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec) ⚠️ Archived]
-* **BEiT**: "BEiT: BERT Pre-Training of Image Transformers", ICLR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2106.08254)]\[[PyTorch](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,227 | 🐛 687 | 🌐 Python | 📅 2026-09-21]
-* **BEiT-v2**: "BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers", arXiv, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2208.06366)]\[[PyTorch](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,227 | 🐛 687 | 🌐 Python | 📅 2026-09-21]
-* **?**: "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers", Transactions on Machine Learning Research (TMLR), 2022 (*Google*). \[[Paper](https://openreview.net/forum?id=4nPswr1KcP)]\[[Tensorflow](https://github.com/google-research/vision_transformer) ⭐ 12,728 | 🐛 141 | 🌐 Jupyter Notebook | 📅 2026-08-01]\[[PyTorch (rwightman)](https://github.com/rwightman/pytorch-image-models) ⭐ 37,171 | 🐛 40 | 🌐 Python | 📅 2026-09-26]
+* **BEiT**: "BEiT: BERT Pre-Training of Image Transformers", ICLR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2106.08254)]\[[PyTorch](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,226 | 🐛 687 | 🌐 Python | 📅 2026-09-21]
+* **BEiT-v2**: "BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers", arXiv, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2208.06366)]\[[PyTorch](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,226 | 🐛 687 | 🌐 Python | 📅 2026-09-21]
+* **?**: "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers", Transactions on Machine Learning Research (TMLR), 2022 (*Google*). \[[Paper](https://openreview.net/forum?id=4nPswr1KcP)]\[[Tensorflow](https://github.com/google-research/vision_transformer) ⭐ 12,727 | 🐛 141 | 🌐 Jupyter Notebook | 📅 2026-08-01]\[[PyTorch (rwightman)](https://github.com/rwightman/pytorch-image-models) ⭐ 37,174 | 🐛 39 | 🌐 Python | 📅 2026-09-27]
 * **MAE**: "Masked Autoencoders Are Scalable Vision Learners", CVPR, 2022 (*Facebook*). \[[Paper](https://arxiv.org/abs/2111.06377)]\[[PyTorch](https://github.com/facebookresearch/mae) ⚠️ Archived]\[[PyTorch (pengzhiliang)](https://github.com/pengzhiliang/MAE-pytorch) ⭐ 2,691 | 🐛 24 | 🌐 Python | 📅 2023-07-25]
 * **DINO**: "Emerging Properties in Self-Supervised Vision Transformers", ICCV, 2021 (*Facebook*). \[[Paper](https://arxiv.org/abs/2104.14294)]\[[PyTorch](https://github.com/facebookresearch/dino) ⚠️ Archived]
 * **MFF**: "Improving Pixel-based MIM by Reducing Wasted Modeling Capability", ICCV, 2023 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2308.00261)]\[[PyTorch](https://github.com/open-mmlab/mmpretrain) ⭐ 3,855 | 🐛 273 | 🌐 Python | 📅 2024-11-01]
@@ -616,7 +616,7 @@ If you find this repository useful, please consider citing this list:
 * **SimMIM**: "SimMIM: A Simple Framework for Masked Image Modeling", CVPR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2111.09886)]\[[PyTorch](https://github.com/microsoft/SimMIM) ⚠️ Archived]
 * **SLIP**: "SLIP: Self-supervision meets Language-Image Pre-training", ECCV, 2022 (*Berkeley + Meta*). \[[Paper](https://arxiv.org/abs/2112.12750)]\[[Pytorch](https://github.com/facebookresearch/SLIP) ⚠️ Archived]
 * **iBOT**: "Image BERT Pre-training with Online Tokenizer", ICLR, 2022 (*ByteDance*). \[[Paper](https://arxiv.org/abs/2111.07832)]\[[PyTorch](https://github.com/bytedance/ibot) ⚠️ Archived]
-* **MoBY**: "Self-Supervised Learning with Swin Transformers", arXiv, 2021 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2105.04553)]\[[PyTorch](https://github.com/SwinTransformer/Transformer-SSL) ⭐ 673 | 🐛 17 | 🌐 Python | 📅 2021-05-13]
+* **MoBY**: "Self-Supervised Learning with Swin Transformers", arXiv, 2021 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2105.04553)]\[[PyTorch](https://github.com/SwinTransformer/Transformer-SSL) ⭐ 674 | 🐛 17 | 🌐 Python | 📅 2021-05-13]
 * **A<sup>2</sup>MIM**: "Architecture-Agnostic Masked Image Modeling - From ViT back to CNN", ICML, 2023 (*Westlake University, China*). \[[Paper](https://arxiv.org/abs/2205.13943)]\[[PyTorch](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15]
 * **MAGE**: "MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis", CVPR, 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2211.09117)]\[[PyTorch](https://github.com/LTH14/mage) ⭐ 583 | 🐛 37 | 🌐 Python | 📅 2023-03-10]
 * **ConvMAE**: "ConvMAE: Masked Convolution Meets Masked Autoencoders", arXiv, 2022 (*Shanghai AI Laboratory*). \[[Paper](https://arxiv.org/abs/2205.03892)]\[[PyTorch (in construction)](https://github.com/Alpha-VL/ConvMAE) ⭐ 531 | 🐛 27 | 🌐 Python | 📅 2023-03-14]
@@ -904,8 +904,8 @@ If you find this repository useful, please consider citing this list:
 
 #### MLP-Series
 
-* **MLP-Mixer**: "MLP-Mixer: An all-MLP Architecture for Vision", NeurIPS, 2021 (*Google*). \[[Paper](https://arxiv.org/abs/2105.01601)]\[[Tensorflow](https://github.com/google-research/vision_transformer) ⭐ 12,728 | 🐛 141 | 🌐 Jupyter Notebook | 📅 2026-08-01]\[[PyTorch-1 (lucidrains)](https://github.com/lucidrains/mlp-mixer-pytorch) ⭐ 1,065 | 🐛 4 | 🌐 Python | 📅 2025-07-07]\[[PyTorch-2 (rishikksh20)](https://github.com/rishikksh20/MLP-Mixer-pytorch) ⭐ 216 | 🐛 3 | 🌐 Python | 📅 2021-05-05]
-* **Wave-MLP**: "An Image Patch is a Wave: Quantum Inspired Vision MLP", CVPR, 2022 (*Huawei*). \[[Paper](https://arxiv.org/abs/2111.12294)]\[[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch) ⭐ 4,420 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* **MLP-Mixer**: "MLP-Mixer: An all-MLP Architecture for Vision", NeurIPS, 2021 (*Google*). \[[Paper](https://arxiv.org/abs/2105.01601)]\[[Tensorflow](https://github.com/google-research/vision_transformer) ⭐ 12,727 | 🐛 141 | 🌐 Jupyter Notebook | 📅 2026-08-01]\[[PyTorch-1 (lucidrains)](https://github.com/lucidrains/mlp-mixer-pytorch) ⭐ 1,065 | 🐛 4 | 🌐 Python | 📅 2025-07-07]\[[PyTorch-2 (rishikksh20)](https://github.com/rishikksh20/MLP-Mixer-pytorch) ⭐ 216 | 🐛 3 | 🌐 Python | 📅 2021-05-05]
+* **Wave-MLP**: "An Image Patch is a Wave: Quantum Inspired Vision MLP", CVPR, 2022 (*Huawei*). \[[Paper](https://arxiv.org/abs/2111.12294)]\[[PyTorch](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch) ⭐ 4,421 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 * **Forward-Only**: "Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet", arXiv, 2021 (*Oxford*). \[[Paper](https://arxiv.org/abs/2105.02723)]\[[PyTorch](https://github.com/lukemelas/do-you-even-need-attention) ⭐ 485 | 🐛 2 | 🌐 Python | 📅 2021-05-07]
 * **RepMLP**: "RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition", arXiv, 2021 (*Megvii*). \[[Paper](https://arxiv.org/abs/2105.01883)]\[[PyTorch](https://github.com/DingXiaoH/RepMLP) ⭐ 306 | 🐛 5 | 🌐 Python | 📅 2023-02-10]
 * **CycleMLP**: "CycleMLP: A MLP-like Architecture for Dense Prediction", ICLR, 2022 (*HKU*). \[[Paper](https://arxiv.org/abs/2107.10224)]\[[PyTorch](https://github.com/ShoufaChen/CycleMLP) ⭐ 290 | 🐛 4 | 🌐 Python | 📅 2022-04-25]
@@ -941,7 +941,7 @@ If you find this repository useful, please consider citing this list:
 
 * **ConvNext**: "A ConvNet for the 2020s", CVPR, 2022 (*Facebook*). \[[Paper](https://arxiv.org/abs/2201.03545)]\[[PyTorch](https://github.com/facebookresearch/ConvNeXt) ⚠️ Archived]
 * **Vim**: "Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model", arXiv, 2024 (*Huazhong University of Science and Technology*). \[[Paper](https://arxiv.org/abs/2401.09417)]\[\[PyTorch]\(<https://github.com/hustvl/Vim> ⭐ 3,905 | 🐛 112 | 🌐 Python | 📅 2025-02-13
-* **VMamba**: "VMamba: Visual State Space Model", arXiv, 2024 (*CAS*). \[[Paper](https://arxiv.org/abs/2401.10166)]\[[PyTorch](https://github.com/MzeroMiko/VMamba) ⭐ 3,231 | 🐛 270 | 🌐 Python | 📅 2025-03-07]
+* **VMamba**: "VMamba: Visual State Space Model", arXiv, 2024 (*CAS*). \[[Paper](https://arxiv.org/abs/2401.10166)]\[[PyTorch](https://github.com/MzeroMiko/VMamba) ⭐ 3,233 | 🐛 270 | 🌐 Python | 📅 2025-03-07]
 * **MambaOut**: "MambaOut: Do We Really Need Mamba for Vision?", arXiv, 2024 (*NUS*). \[[Paper](https://arxiv.org/abs/2405.07992)]\[[PyTorch](https://github.com/yuweihao/MambaOut) ⭐ 2,707 | 🐛 243 | 🌐 Python | 📅 2025-03-09]
 * **ConvNeXt-V2**: "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders", CVPR, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2301.00808)]\[[PyTorch](https://github.com/facebookresearch/ConvNeXt-V2) ⚠️ Archived]
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). \[[Paper](https://arxiv.org/abs/2111.11418)]\[[PyTorch](https://github.com/sail-sg/poolformer) ⭐ 1,365 | 🐛 15 | 🌐 Python | 📅 2024-06-01]
@@ -969,7 +969,7 @@ If you find this repository useful, please consider citing this list:
 
 ### Analysis for Transformer
 
-* **?**: "When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations", ICLR, 2022 (*Google*). \[[Paper](https://arxiv.org/abs/2106.01548)]\[[Tensorflow](https://github.com/google-research/vision_transformer) ⭐ 12,728 | 🐛 141 | 🌐 Jupyter Notebook | 📅 2026-08-01]
+* **?**: "When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations", ICLR, 2022 (*Google*). \[[Paper](https://arxiv.org/abs/2106.01548)]\[[Tensorflow](https://github.com/google-research/vision_transformer) ⭐ 12,727 | 🐛 141 | 🌐 Jupyter Notebook | 📅 2026-08-01]
 * **Transformer-Explainability**: "Transformer Interpretability Beyond Attention Visualization", CVPR, 2021 (*Tel Aviv*). \[[Paper](https://arxiv.org/abs/2012.09838)]\[[PyTorch](https://github.com/hila-chefer/Transformer-Explainability) ⭐ 2,016 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2024-01-24]
 * **Attention-CNN**: "On the Relationship between Self-Attention and Convolutional Layers", ICLR, 2020 (*EPFL*). \[[Paper](https://openreview.net/forum?id=HJlnC1rKPB)]\[[PyTorch](https://github.com/epfml/attention-cnn) ⭐ 1,123 | 🐛 6 | 🌐 Python | 📅 2023-01-10]\[[Website](https://epfml.github.io/attention-cnn/)]
 * **?**: "On Data Scaling in Masked Image Modeling", CVPR, 2023 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2206.04664)]\[[PyTorch](https://github.com/microsoft/SimMIM) ⚠️ Archived]
@@ -1039,7 +1039,7 @@ If you find this repository useful, please consider citing this list:
   * **detrex**: "detrex: Benchmarking Detection Transformers", arXiv, 2023 (*IDEA*). \[[Paper](https://arxiv.org/abs/2306.07265)]\[[PyTorch](https://github.com/IDEA-Research/detrex) ⭐ 2,309 | 🐛 83 | 🌐 Python | 📅 2025-09-11]
 * CNN-based backbone:
   * **DETR**: "End-to-End Object Detection with Transformers", ECCV, 2020 (*Facebook*). \[[Paper](https://arxiv.org/abs/2005.12872)]\[[PyTorch](https://github.com/facebookresearch/detr) ⚠️ Archived]
-  * **Deformable DETR**: "Deformable DETR: Deformable Transformers for End-to-End Object Detection", ICLR, 2021 (*SenseTime*). \[[Paper](https://arxiv.org/abs/2010.04159)]\[[PyTorch](https://github.com/fundamentalvision/Deformable-DETR) ⭐ 4,024 | 🐛 177 | 🌐 Python | 📅 2024-05-16]
+  * **Deformable DETR**: "Deformable DETR: Deformable Transformers for End-to-End Object Detection", ICLR, 2021 (*SenseTime*). \[[Paper](https://arxiv.org/abs/2010.04159)]\[[PyTorch](https://github.com/fundamentalvision/Deformable-DETR) ⭐ 4,023 | 🐛 177 | 🌐 Python | 📅 2024-05-16]
   * **MaskDINO**: "Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation", CVPR, 2023 (*IDEA, China*). \[[Paper](https://arxiv.org/abs/2206.02777)]\[[PyTorch](https://github.com/IDEACVR/MaskDINO) ⭐ 1,563 | 🐛 66 | 🌐 Python | 📅 2023-12-20]
   * **ViT-Adapter**: "ViT-Adapter: Exploring Plain Vision Transformer for Accurate Dense Predictions", ICLR, 2023 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2205.08534)]\[[PyTorch](https://github.com/czczup/ViT-Adapter) ⭐ 1,503 | 🐛 83 | 🌐 Python | 📅 2025-06-03]
   * **Co-DETR**: "DETRs with Collaborative Hybrid Assignments Training", ICCV, 2023 (*SenseTime*). \[[Paper](https://arxiv.org/abs/2211.12860)]\[[PyTorch](https://github.com/Sense-X/Co-DETR) ⭐ 1,364 | 🐛 92 | 🌐 Python | 📅 2024-12-29]
@@ -1150,7 +1150,7 @@ If you find this repository useful, please consider citing this list:
 * **VoxSeT**: "Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds", CVPR, 2022 (*The Hong Kong Polytechnic University*). \[[Paper](https://arxiv.org/abs/2203.10314)]\[[PyTorch](https://github.com/skyhehe123/VoxSeT) ⭐ 202 | 🐛 13 | 🌐 Python | 📅 2023-03-22]
 * **PolarFormer**: "PolarFormer: Multi-camera 3D Object Detection with Polar Transformer", arXiv, 2022 (*Fudan University*). \[[Paper](https://arxiv.org/abs/2206.15398#)]\[[Code (in construction)](https://github.com/fudan-zvg/PolarFormer) ⭐ 176 | 🐛 4 | 🌐 Python | 📅 2023-02-06]
 * **MonoDTR**: "MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer", CVPR, 2022 (*NTU*). \[[Paper](https://arxiv.org/abs/2203.10981)]\[[Code (in construction)](https://github.com/kuanchihhuang/MonoDTR) ⭐ 162 | 🐛 11 | 🌐 Python | 📅 2024-11-05]
-* **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2308.04409)]\[[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR) ⭐ 145 | 🐛 14 | 🌐 Python | 📅 2026-06-26]
+* **V-DETR**: "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection", arXiv, 2023 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2308.04409)]\[[Code (in construction)](https://github.com/yichaoshen-MS/V-DETR) ⭐ 146 | 🐛 14 | 🌐 Python | 📅 2026-06-26]
 * **BoxeR**: "BoxeR: Box-Attention for 2D and 3D Transformers", CVPR, 2022 (*University of Amsterdam*). \[[Paper](https://arxiv.org/abs/2111.13087)]\[[PyTorch](https://github.com/kienduynguyen/BoxeR) ⭐ 142 | 🐛 7 | 🌐 Python | 📅 2025-02-28]
 * **PiMAE**: "PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection", CVPR, 2023 (*Peking University*). \[[Paper](https://arxiv.org/abs/2303.08129)]\[[PyTorch](https://github.com/BLVLab/PiMAE) ⭐ 141 | 🐛 8 | 🌐 Python | 📅 2024-12-12]
 * **CT3D**: "Improving 3D Object Detection with Channel-wise Transformer", ICCV, 2021 (*Alibaba*). \[[Paper](https://arxiv.org/abs/2108.10723)]\[[Code (in construction)](https://github.com/hlsheng1/CT3D) ⭐ 133 | 🐛 6 | 🌐 Python | 📅 2021-11-12]
@@ -1207,7 +1207,7 @@ If you find this repository useful, please consider citing this list:
 
 ### Multi-Modal Detection
 
-* **OWL-ViT**: "Simple Open-Vocabulary Object Detection with Vision Transformers", ECCV, 2022 (*Google*). \[[Paper](https://arxiv.org/abs/2205.06230)]\[[JAX](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) ⭐ 3,839 | 🐛 305 | 🌐 Python | 📅 2026-09-10]\[[Hugging Face](https://huggingface.co/docs/transformers/model_doc/owlvit)]
+* **OWL-ViT**: "Simple Open-Vocabulary Object Detection with Vision Transformers", ECCV, 2022 (*Google*). \[[Paper](https://arxiv.org/abs/2205.06230)]\[[JAX](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) ⭐ 3,839 | 🐛 306 | 🌐 Python | 📅 2026-09-27]\[[Hugging Face](https://huggingface.co/docs/transformers/model_doc/owlvit)]
 * **MDETR**: "MDETR - Modulated Detection for End-to-End Multi-Modal Understanding", ICCV, 2021 (*NYU*). \[[Paper](https://arxiv.org/abs/2104.12763)]\[[PyTorch](https://github.com/ashkamath/mdetr) ⭐ 1,053 | 🐛 32 | 🌐 Python | 📅 2022-10-03]\[[Website](https://ashkamath.github.io/mdetr_page/)]
 * **MAVL**: "Class-agnostic Object Detection with Multi-modal Transformer", ECCV, 2022 (*MBZUAI*). \[[Paper](https://arxiv.org/abs/2111.11430)]\[[PyTorch](https://github.com/mmaaz60/mvits_for_class_agnostic_od) ⭐ 313 | 🐛 8 | 🌐 Python | 📅 2023-05-09]
 * **ContextDET**: "Contextual Object Detection with Multimodal Large Language Models", arXiv, 2023 (*NTU, Singapore*). \[[Paper](https://arxiv.org/abs/2305.18279)]\[[Code (in construction)](https://github.com/yuhangzang/ContextDET) ⭐ 261 | 🐛 7 | 🌐 Python | 📅 2024-10-14]\[[Website](https://www.mmlab-ntu.com/project/contextdet/index.html)]
@@ -1292,7 +1292,7 @@ If you find this repository useful, please consider citing this list:
 ### Other Detection Tasks
 
 * X-supervised:
-  * **Semi-DETR**: "Semi-DETR: Semi-Supervised Object Detection With Detection Transformers", CVPR, 2023 (*Baidu*). \[[Paper](https://arxiv.org/abs/2307.08095)]\[[Paddle (in construction)](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/semi_det/semi_detr) ⭐ 14,433 | 🐛 942 | 🌐 Python | 📅 2026-05-28]\[[PyTorch (JCZ404)](https://github.com/JCZ404/Semi-DETR) ⭐ 116 | 🐛 3 | 🌐 Python | 📅 2024-11-26]
+  * **Semi-DETR**: "Semi-DETR: Semi-Supervised Object Detection With Detection Transformers", CVPR, 2023 (*Baidu*). \[[Paper](https://arxiv.org/abs/2307.08095)]\[[Paddle (in construction)](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/semi_det/semi_detr) ⭐ 14,434 | 🐛 942 | 🌐 Python | 📅 2026-05-28]\[[PyTorch (JCZ404)](https://github.com/JCZ404/Semi-DETR) ⭐ 117 | 🐛 3 | 🌐 Python | 📅 2024-11-26]
   * **CutLER**: "Cut and Learn for Unsupervised Object Detection and Instance Segmentation", CVPR, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2301.11320)]\[[PyTorch](https://github.com/facebookresearch/CutLER) ⭐ 1,074 | 🐛 21 | 🌐 Python | 📅 2026-04-14]\[[Website](http://people.eecs.berkeley.edu/~xdwang/projects/CutLER/)]
   * **TokenCut**: "Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut", CVPR, 2022 (*Univ. Grenoble Alpes, France*). \[[Paper](https://arxiv.org/abs/2202.11539)]\[[PyTorch](https://github.com/YangtaoWANG95/TokenCut) ⭐ 343 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2023-03-30]\[[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
   * **TokenCut**: "TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut", arXiv, 2022 (*Univ. Grenoble Alpes, France*). \[[Paper](https://arxiv.org/abs/2209.00383)]\[[PyTorch](https://github.com/YangtaoWANG95/TokenCut) ⭐ 343 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2023-03-30]\[[Website](https://www.m-psi.fr/Papers/TokenCut2022/)]
@@ -1326,7 +1326,7 @@ If you find this repository useful, please consider citing this list:
   * **Meta-ZSDETR**: "Meta-ZSDETR: Zero-shot DETR with Meta-learning", ICCV, 2023 (*Fudan*). \[[Paper](https://arxiv.org/abs/2308.09540)]
   * **?**: "Revisiting Few-Shot Object Detection with Vision-Language Models", arXiv, 2023 (*CMU*). \[[Paper](https://arxiv.org/abs/2312.14494)]
 * Open-World/Vocabulary:
-  * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2401.02361)]\[[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino) ⭐ 32,959 | 🐛 1,963 | 🌐 Python | 📅 2024-08-21]
+  * **MM-Grounding-DINO**: "An Open and Comprehensive Pipeline for Unified Object Grounding and Detection", arXiv, 2024 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2401.02361)]\[[PyTorch](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino) ⭐ 32,961 | 🐛 1,963 | 🌐 Python | 📅 2024-08-21]
   * **YOLO-World**: "YOLO-World: Real-Time Open-Vocabulary Object Detection", arXiv, 2024 (*Tencent*). \[[Paper](https://arxiv.org/abs/2401.17270)]\[[Code (in construction)](https://github.com/AILab-CVC/YOLO-World) ⭐ 6,574 | 🐛 421 | 🌐 Python | 📅 2025-02-26]
   * **T-Rex2**: "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy", arXiv, 2024 (*IDEA*). \[[Paper](https://arxiv.org/abs/2403.14610)]\[[PyTorch](https://github.com/IDEA-Research/T-Rex) ⭐ 2,708 | 🐛 17 | 🌐 Python | 📅 2025-10-15]\[[Website](https://deepdataspace.com/home)]
   * **Grounding-DINO-1.5**: "Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection", arXiv, 2024 (*IDEA*). \[[Paper](https://arxiv.org/abs/2405.10300)]\[[Code](https://github.com/IDEA-Research/Grounding-DINO-1.5-API) ⭐ 1,147 | 🐛 39 | 🌐 Python | 📅 2025-01-21]
@@ -1413,7 +1413,7 @@ If you find this repository useful, please consider citing this list:
   * **CaFT**: "CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization", arXiv, 2022 (*Zhejiang University*). \[[Paper](https://arxiv.org/abs/2201.00475)]
   * **ESC**: "ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation", ICML, 2023 (*UCSC*). \[[Paper](https://arxiv.org/abs/2301.13166)]
 * Relation Detection:
-  * **UniVRD**: "Unified Visual Relationship Detection with Vision and Language Models", ICCV, 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2303.08998)]\[[Code (in construction)](https://github.com/google-research/scenic/tree/main/scenic/projects/univrd) ⭐ 3,839 | 🐛 305 | 🌐 Python | 📅 2026-09-10]
+  * **UniVRD**: "Unified Visual Relationship Detection with Vision and Language Models", ICCV, 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2303.08998)]\[[Code (in construction)](https://github.com/google-research/scenic/tree/main/scenic/projects/univrd) ⭐ 3,839 | 🐛 306 | 🌐 Python | 📅 2026-09-27]
   * **RelTransformer**: "RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition", CVPR, 2022 (*KAUST*). \[[Paper](https://arxiv.org/abs/2104.11934)]\[[PyTorch](https://github.com/Vision-CAIR/RelTransformer) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2023-10-04]
   * **PST**: "Visual Relationship Detection Using Part-and-Sum Transformers with Composite Queries", ICCV, 2021 (*Amazon*). \[[Paper](https://arxiv.org/abs/2105.02170)]
   * **PST**: "Visual Composite Set Detection Using Part-and-Sum Transformers", arXiv, 2021 (*Amazon*). \[[Paper](https://arxiv.org/abs/2105.02170)]
@@ -1422,7 +1422,7 @@ If you find this repository useful, please consider citing this list:
   * **RECODE**: "Zero-shot Visual Relation Detection via Composite Visual Cues from Large Language Models", NeurIPS, 2023 (*Zhejiang University*). \[[Paper](https://arxiv.org/abs/2305.12476)]
   * **SG-ViT**: "Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection", arXiv, 2024 (*DeepMind*). \[[Paper](https://arxiv.org/abs/2403.14270)]
 * Anomaly Detection:
-  * **M3DM**: "Multimodal Industrial Anomaly Detection via Hybrid Fusion", CVPR, 2023 (*Tencent*). \[[Paper](https://arxiv.org/abs/2303.00601)]\[[PyTorch](https://github.com/nomewang/M3DM) ⭐ 216 | 🐛 22 | 🌐 Python | 📅 2023-09-08]
+  * **M3DM**: "Multimodal Industrial Anomaly Detection via Hybrid Fusion", CVPR, 2023 (*Tencent*). \[[Paper](https://arxiv.org/abs/2303.00601)]\[[PyTorch](https://github.com/nomewang/M3DM) ⭐ 217 | 🐛 22 | 🌐 Python | 📅 2023-09-08]
   * **VT-ADL**: "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization", ISIE, 2021 (*University of Udine, Italy*). \[[Paper](https://arxiv.org/abs/2104.10036)]
   * **InTra**: "Inpainting Transformer for Anomaly Detection", arXiv, 2021 (*Fujitsu*). \[[Paper](https://arxiv.org/abs/2104.13897)]
   * **AnoViT**: "AnoViT: Unsupervised Anomaly Detection and Localization with Vision Transformer-based Encoder-Decoder", arXiv, 2022 (*Korea University*). \[[Paper](https://arxiv.org/abs/2203.10808)]
@@ -1474,7 +1474,7 @@ If you find this repository useful, please consider citing this list:
   * **TGA**: "Text Grouping Adapter: Adapting Pre-trained Text Detector for Layout Analysis", CVPR, 2024 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2405.07481)]
   * **SwinTextSpotter-v2**: "SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting", arXiv, 2024 (*South China University of Technology*). \[[Paper](https://arxiv.org/abs/2401.07641)]
 * Change Detection:
-  * **ChangeFormer**: "A Transformer-Based Siamese Network for Change Detection", arXiv, 2022 (*JHU*). \[[Paper](https://arxiv.org/abs/2201.01293)]\[[PyTorch](https://github.com/wgcban/ChangeFormer) ⭐ 622 | 🐛 9 | 🌐 Python | 📅 2024-01-31]
+  * **ChangeFormer**: "A Transformer-Based Siamese Network for Change Detection", arXiv, 2022 (*JHU*). \[[Paper](https://arxiv.org/abs/2201.01293)]\[[PyTorch](https://github.com/wgcban/ChangeFormer) ⭐ 623 | 🐛 9 | 🌐 Python | 📅 2024-01-31]
   * **IDET**: "IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection", arXiv, 2022 (*Civil Aviation University of China*). \[[Paper](https://arxiv.org/abs/2207.09240)]
 * Edge Detection:
   * **EDTER**: "EDTER: Edge Detection with Transformer", CVPR, 2022 (*Beijing Jiaotong University*). \[[Paper](https://arxiv.org/abs/2203.08566)]\[[Code (in construction)](https://github.com/MengyangPu/EDTER) ⭐ 325 | 🐛 29 | 🌐 MATLAB | 📅 2025-11-25]
@@ -1509,7 +1509,7 @@ If you find this repository useful, please consider citing this list:
 ### Semantic Segmentation
 
 * **RTFormer**: "RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer", NeurIPS, 2022 (*Baidu*). \[[Paper](https://arxiv.org/abs/2210.07124)]\[[Paddle](https://github.com/PaddlePaddle/PaddleSeg) ⭐ 9,396 | 🐛 29 | 🌐 Python | 📅 2026-02-05]
-* **SegFormer**: "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers", NeurIPS, 2021 (*NVIDIA*). \[[Paper](https://arxiv.org/abs/2105.15203)]\[[PyTorch](https://github.com/NVlabs/SegFormer) ⭐ 3,665 | 🐛 110 | 🌐 Python | 📅 2024-08-02]
+* **SegFormer**: "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers", NeurIPS, 2021 (*NVIDIA*). \[[Paper](https://arxiv.org/abs/2105.15203)]\[[PyTorch](https://github.com/NVlabs/SegFormer) ⭐ 3,666 | 🐛 110 | 🌐 Python | 📅 2024-08-02]
 * **SETR**: "Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers", CVPR, 2021 (*Tencent*). \[[Paper](https://arxiv.org/abs/2012.15840)]\[[PyTorch](https://github.com/fudan-zvg/SETR) ⭐ 1,109 | 🐛 16 | 🌐 Python | 📅 2024-09-02]\[[Website](https://fudan-zvg.github.io/SETR/)]
 * **HLG**: "Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective", arXiv, 2022 (*Fudan University*). \[[Paper](https://arxiv.org/abs/2207.09339)]\[[PyTorch](https://github.com/fudan-zvg/SETR) ⭐ 1,109 | 🐛 16 | 🌐 Python | 📅 2024-09-02]
 * **Segmenter**: "Segmenter: Transformer for Semantic Segmentation", ICCV, 2021 (*INRIA*). \[[Paper](https://arxiv.org/abs/2105.05633)]\[[PyTorch](https://github.com/rstrudel/segmenter) ⭐ 905 | 🐛 21 | 🌐 Python | 📅 2024-04-21]
@@ -1562,7 +1562,7 @@ If you find this repository useful, please consider citing this list:
 
 ### Depth Estimation
 
-* **Depth-Anything**: "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data", arXiv, 2024 (*TikTok*). \[[Paper](https://arxiv.org/abs/2401.10891)]\[[PyTorch](https://github.com/LiheYoung/Depth-Anything) ⭐ 8,219 | 🐛 137 | 🌐 Python | 📅 2024-07-17]\[[Website](https://depth-anything.github.io/)]
+* **Depth-Anything**: "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data", arXiv, 2024 (*TikTok*). \[[Paper](https://arxiv.org/abs/2401.10891)]\[[PyTorch](https://github.com/LiheYoung/Depth-Anything) ⭐ 8,220 | 🐛 137 | 🌐 Python | 📅 2024-07-17]\[[Website](https://depth-anything.github.io/)]
 * **DPT**: "Vision Transformers for Dense Prediction", ICCV, 2021 (*Intel*). \[[Paper](https://arxiv.org/abs/2103.13413)]\[[PyTorch](https://github.com/intel-isl/DPT) ⚠️ Archived]
 * **DepthFormer**: "DepthFormer: Exploiting Long-Range Correlation and Local Information for Accurate Monocular Depth Estimation", arXiv, 2022 (*Harbin Institute of Technology*). \[[Paper](https://arxiv.org/abs/2203.14211)]\[[PyTorch](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) ⭐ 972 | 🐛 21 | 🌐 Python | 📅 2025-07-21]
 * **BinsFormer**: "BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation", arXiv, 2022 (*Harbin Institute of Technology*). \[[Paper](https://arxiv.org/abs/2204.00987)]\[[PyTorch](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) ⭐ 972 | 🐛 21 | 🌐 Python | 📅 2025-07-21]
@@ -1609,12 +1609,12 @@ If you find this repository useful, please consider citing this list:
 ### Other Segmentation Tasks
 
 * Any-X/Every-X:
-  * **SAM**: "Segment Anything", ICCV, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2304.02643)]\[[PyTorch](https://github.com/facebookresearch/segment-anything) ⭐ 54,943 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18]\[[Website](https://segment-anything.com/)]
-  * **Grounded-SAM**: "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks", arXiv, 2024 (*IDEA*). \[[Paper](https://arxiv.org/abs/2401.14159)]\[[PyTorch](https://github.com/IDEA-Research/Grounded-Segment-Anything) ⭐ 17,738 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05]
-  * **Conv-LoRA**: "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model", ICLR, 2024 (*Amazon*). \[[Paper](https://arxiv.org/abs/2401.17868)]\[[PyTorch](https://github.com/autogluon/autogluon) ⭐ 10,751 | 🐛 378 | 🌐 Python | 📅 2026-09-26]
+  * **SAM**: "Segment Anything", ICCV, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2304.02643)]\[[PyTorch](https://github.com/facebookresearch/segment-anything) ⭐ 54,940 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18]\[[Website](https://segment-anything.com/)]
+  * **Grounded-SAM**: "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks", arXiv, 2024 (*IDEA*). \[[Paper](https://arxiv.org/abs/2401.14159)]\[[PyTorch](https://github.com/IDEA-Research/Grounded-Segment-Anything) ⭐ 17,736 | 🐛 310 | 🌐 Jupyter Notebook | 📅 2024-09-05]
+  * **Conv-LoRA**: "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model", ICLR, 2024 (*Amazon*). \[[Paper](https://arxiv.org/abs/2401.17868)]\[[PyTorch](https://github.com/autogluon/autogluon) ⭐ 10,750 | 🐛 377 | 🌐 Python | 📅 2026-09-27]
   * **FastSAM**: "Fast Segment Anything", arXiv, 2023 (*CAS*). \[[Paper](https://arxiv.org/abs/2306.12156)]\[[PyTorch](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,415 | 🐛 147 | 🌐 Python | 📅 2024-07-30]
-  * **MobileSAM**: "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications", arXiv, 2023 (*Kyung Hee University*). \[[Paper](https://arxiv.org/abs/2306.14289)]\[[PyTorch](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,879 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05]
-  * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). \[[Paper](https://arxiv.org/abs/2312.09579)]\[[PyTorch](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,879 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05]
+  * **MobileSAM**: "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications", arXiv, 2023 (*Kyung Hee University*). \[[Paper](https://arxiv.org/abs/2306.14289)]\[[PyTorch](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,881 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05]
+  * **MobileSAMv2**: "MobileSAMv2: Faster Segment Anything to Everything", arXiv, 2023 (*Kyung Hee University*). \[[Paper](https://arxiv.org/abs/2312.09579)]\[[PyTorch](https://github.com/ChaoningZhang/MobileSAM) ⭐ 5,881 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-05-05]
   * **SEEM**: "Segment Everything Everywhere All at Once", NeurIPS, 2023 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2304.06718)]\[[PyTorch](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) ⭐ 4,792 | 🐛 60 | 🌐 Python | 📅 2024-08-19]
   * **HQ-SAM**: "Segment Anything in High Quality", NeurIPS, 2023 (*ETHZ*). \[[Paper](https://arxiv.org/abs/2306.01567)]\[[PyTorch](https://github.com/SysCV/SAM-HQ) ⭐ 4,261 | 🐛 110 | 🌐 Jupyter Notebook | 📅 2025-09-12]
   * **EfficientViT-SAM**: "EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss", arXiv, 2024 (*NVIDIA*). \[[Paper](https://arxiv.org/abs/2402.05008)]\[[PyTorch](https://github.com/mit-han-lab/efficientvit) ⭐ 3,365 | 🐛 108 | 🌐 Python | 📅 2025-09-05]
@@ -1625,7 +1625,7 @@ If you find this repository useful, please consider citing this list:
   * **OV-SAM**: "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively", arXiv, 2024 (*NTU, Singapore*). \[[Paper](https://arxiv.org/abs/2401.02955)]\[[PyTorch](https://github.com/HarborYuan/ovsam) ⭐ 1,034 | 🐛 2 | 🌐 Python | 📅 2026-09-08]\[[Website](https://www.mmlab-ntu.com/project/ovsam/)]
   * **SAD**: "SAD: Segment Any RGBD", arXiv, 2023 (*NTU, Singapore*). \[[Paper](https://arxiv.org/abs/2305.14207)]\[[PyTorch](https://github.com/Jun-CEN/SegmentAnyRGBD) ⭐ 867 | 🐛 10 | 🌐 Python | 📅 2023-05-24]
   * **TAP**: "Tokenize Anything via Prompting", arXiv, 2023 (*BAAI*). \[[Paper](https://arxiv.org/abs/2312.09128)]\[[PyTorch](https://github.com/baaivision/tokenize-anything) ⭐ 600 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11]
-  * **TinySAM**: "TinySAM: Pushing the Envelope for Efficient Segment Anything Model", arXiv, 2023 (*Huawei*). \[[Paper](https://arxiv.org/abs/2312.13789)]\[[PyTorch](https://github.com/xinghaochen/TinySAM) ⭐ 558 | 🐛 7 | 🌐 Python | 📅 2025-01-19]
+  * **TinySAM**: "TinySAM: Pushing the Envelope for Efficient Segment Anything Model", arXiv, 2023 (*Huawei*). \[[Paper](https://arxiv.org/abs/2312.13789)]\[[PyTorch](https://github.com/xinghaochen/TinySAM) ⭐ 559 | 🐛 7 | 🌐 Python | 📅 2025-01-19]
   * **DINOv**: "Visual In-Context Prompting", arXiv, 2023 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2311.13601)]\[[Code (in construction)](https://github.com/UX-Decoder/DINOv) ⭐ 544 | 🐛 32 | 🌐 Python | 📅 2024-04-08]
   * **SlimSAM**: "0.1% Data Makes Segment Anything Slim", arXiv, 2023 (*NUS*). \[[Paper](https://arxiv.org/abs/2312.05284)]\[[PyTorch](https://github.com/czg1225/SlimSAM) ⭐ 363 | 🐛 14 | 🌐 Python | 📅 2025-09-27]
   * **RAP-SAM**: "RAP-SAM: Towards Real-Time All-Purpose Segment Anything", arXiv, 2024 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2401.10228)]\[[PyTorch](https://github.com/xushilin1/RAP-SAM/) ⭐ 274 | 🐛 4 | 🌐 Python | 📅 2025-04-11]\[[Website](https://xushilin1.github.io/rap_sam/)]
@@ -1737,7 +1737,7 @@ If you find this repository useful, please consider citing this list:
   * **OVFoodSeg**: "OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation", CVPR, 2024 (*Singapore Management University (SMU)*). \[[Paper](https://arxiv.org/abs/2404.01409)]
   * **FreeDA**: "Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation", CVPR, 2024 (*University of Modena and Reggio Emilia (UniMoRe), Italy*). \[[Paper](https://arxiv.org/abs/2404.06542)]\[[Website](https://aimagelab.github.io/freeda/)]
 * LLM-based:
-  * **LISA**: "LISA: Reasoning Segmentation via Large Language Model", arXiv, 2023 (*CUHK*). \[[Paper](https://arxiv.org/abs/2308.00692)]\[[PyTorch](https://github.com/dvlab-research/LISA) ⭐ 2,682 | 🐛 115 | 🌐 Python | 📅 2025-02-16]
+  * **LISA**: "LISA: Reasoning Segmentation via Large Language Model", arXiv, 2023 (*CUHK*). \[[Paper](https://arxiv.org/abs/2308.00692)]\[[PyTorch](https://github.com/dvlab-research/LISA) ⭐ 2,683 | 🐛 115 | 🌐 Python | 📅 2025-02-16]
   * **PixelLM**: "PixelLM: Pixel Reasoning with Large Multimodal Model", arXiv, 2023 (*ByteDance*). \[[Paper](https://arxiv.org/abs/2312.02228)]\[[Code (in construction)](https://github.com/MaverickRen/PixelLM) ⭐ 275 | 🐛 28 | 🌐 Python | 📅 2025-02-11]\[[Website](https://pixellm.github.io/)]
   * **PSALM**: "PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model", arXiv, 2024 (*Huazhong University of Science and Technology*). \[[Paper](https://arxiv.org/abs/2403.14598)]\[[PyTorch](https://github.com/zamling/PSALM) ⭐ 274 | 🐛 21 | 🌐 Python | 📅 2024-12-30]
   * **LaSagnA**: "LaSagnA: Language-based Segmentation Assistant for Complex Queries", arXiv, 2024 (*Meituan*). \[[Paper](https://arxiv.org/abs/2404.08506)]\[[PyTorch](https://github.com/congvvc/LaSagnA) ⭐ 63 | 🐛 5 | 🌐 Python | 📅 2024-04-29]
@@ -2030,9 +2030,9 @@ If you find this repository useful, please consider citing this list:
 ### Action Recognition
 
 * RGB mainly
-  * **MViT**: "Multiscale Vision Transformers", ICCV, 2021 (*Facebook*). \[[Paper](https://arxiv.org/abs/2104.11227)]\[[PyTorch](https://github.com/facebookresearch/SlowFast) ⭐ 7,423 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
-  * **MTV**: "Multiview Transformers for Video Recognition", CVPR, 2022 (*Google*). \[[Paper](https://arxiv.org/abs/2201.04288)]\[[Tensorflow](https://github.com/google-research/scenic/tree/main/scenic/projects/mtv) ⭐ 3,839 | 🐛 305 | 🌐 Python | 📅 2026-09-10]
-  * **Video-Swin**: "Video Swin Transformer", CVPR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2106.13230)]\[[PyTorch](https://github.com/SwinTransformer/Video-Swin-Transformer) ⭐ 1,665 | 🐛 73 | 🌐 Python | 📅 2023-03-08]
+  * **MViT**: "Multiscale Vision Transformers", ICCV, 2021 (*Facebook*). \[[Paper](https://arxiv.org/abs/2104.11227)]\[[PyTorch](https://github.com/facebookresearch/SlowFast) ⭐ 7,426 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
+  * **MTV**: "Multiview Transformers for Video Recognition", CVPR, 2022 (*Google*). \[[Paper](https://arxiv.org/abs/2201.04288)]\[[Tensorflow](https://github.com/google-research/scenic/tree/main/scenic/projects/mtv) ⭐ 3,839 | 🐛 306 | 🌐 Python | 📅 2026-09-27]
+  * **Video-Swin**: "Video Swin Transformer", CVPR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2106.13230)]\[[PyTorch](https://github.com/SwinTransformer/Video-Swin-Transformer) ⭐ 1,664 | 🐛 73 | 🌐 Python | 📅 2023-03-08]
   * **VideoMamba**: "VideoMamba: State Space Model for Efficient Video Understanding", arXiv, 2024 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2403.06977)]\[[PyTorch](https://github.com/OpenGVLab/VideoMamba) ⭐ 1,130 | 🐛 58 | 🌐 Python | 📅 2024-07-06]
   * **Hiera**: "Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles", ICML, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2306.00989)]\[[PyTorch](https://github.com/facebookresearch/hiera) ⭐ 1,075 | 🐛 30 | 🌐 Python | 📅 2024-03-02]
   * **UniFormer**: "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning", ICLR, 2022 (*CAS + SenstTime*). \[[Paper](https://arxiv.org/abs/2201.04676)]\[[PyTorch](https://github.com/Sense-X/UniFormer) ⭐ 909 | 🐛 15 | 🌐 Python | 📅 2024-03-29]
@@ -2127,7 +2127,7 @@ If you find this repository useful, please consider citing this list:
   * **SkeleTR**: "SkeleTR: Towards Skeleton-based Action Recognition in the Wild", ICCV, 2023 (*Amazon*). \[[Paper](https://arxiv.org/abs/2309.11445)]
   * **PCM<sup>3</sup>**: "Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning", ACMMM, 2023 (*Peking*). \[[Paper](https://arxiv.org/abs/2308.03975)]\[[Website](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
 * Multi-modal:
-  * **MotionBERT**: "MotionBERT: Unified Pretraining for Human Motion Analysis", ICCV, 2023 (*Peking University*). \[[Paper](https://arxiv.org/abs/2210.06551)]\[[PyTorch](https://github.com/Walter0807/MotionBERT) ⭐ 1,451 | 🐛 45 | 🌐 Python | 📅 2026-03-14]\[[Website](https://motionbert.github.io/)]
+  * **MotionBERT**: "MotionBERT: Unified Pretraining for Human Motion Analysis", ICCV, 2023 (*Peking University*). \[[Paper](https://arxiv.org/abs/2210.06551)]\[[PyTorch](https://github.com/Walter0807/MotionBERT) ⭐ 1,452 | 🐛 45 | 🌐 Python | 📅 2026-03-14]\[[Website](https://motionbert.github.io/)]
   * **TIM**: "TIM: A Time Interval Machine for Audio-Visual Action Recognition", CVPR, 2024 (*University of Bristol + Oxford*). \[[Paper](https://arxiv.org/abs/2404.05559)]\[[PyTorch](https://github.com/JacobChalk/TIM) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2024-11-07]\[[Website](https://jacobchalk.github.io/TIM-Project/)]
   * **Hi-TRS**: "Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning", ECCV, 2022 (*Rutgers*). \[[Paper](https://arxiv.org/abs/2207.09644)]\[[PyTorch](https://github.com/yuxiaochen1103/Hi-TRS) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2022-10-01]
   * **MMT-NCRC**: "Multimodal Transformer for Nursing Activity Recognition", CVPRW, 2022 (*UCF*). \[[Paper](https://arxiv.org/abs/2204.04564)]\[[Code (in construction)](https://github.com/Momilijaz96/MMT_for_NCRC) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2024-06-02]
@@ -2149,8 +2149,8 @@ If you find this repository useful, please consider citing this list:
 
 ### Action Detection/Localization
 
-* **TTM**: "Token Turing Machines", CVPR, 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2211.09119)]\[[JAX](https://github.com/google-research/scenic/tree/main/scenic/projects/token_turing) ⭐ 3,839 | 🐛 305 | 🌐 Python | 📅 2026-09-10]
-* **UnLoc**: "UnLoc: A Unified Framework for Video Localization Tasks", ICCV, 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2308.11062)]\[[JAX](https://github.com/google-research/scenic) ⭐ 3,839 | 🐛 305 | 🌐 Python | 📅 2026-09-10]
+* **TTM**: "Token Turing Machines", CVPR, 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2211.09119)]\[[JAX](https://github.com/google-research/scenic/tree/main/scenic/projects/token_turing) ⭐ 3,839 | 🐛 306 | 🌐 Python | 📅 2026-09-27]
+* **UnLoc**: "UnLoc: A Unified Framework for Video Localization Tasks", ICCV, 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2308.11062)]\[[JAX](https://github.com/google-research/scenic) ⭐ 3,839 | 🐛 306 | 🌐 Python | 📅 2026-09-27]
 * **ActionFormer**: "ActionFormer: Localizing Moments of Actions with Transformers", ECCV, 2022 (*UW-Madison*). \[[Paper](https://arxiv.org/abs/2202.07925)]\[[PyTorch](https://github.com/happyharrycn/actionformer_release) ⭐ 578 | 🐛 4 | 🌐 Python | 📅 2024-04-11]
 * **ActionFormer**: "Where a Strong Backbone Meets Strong Features -- ActionFormer for Ego4D Moment Queries Challenge", ECCVW, 2022 (*UW-Madison*). \[[Paper](https://arxiv.org/abs/2211.09074)]\[[Pytorch](https://github.com/happyharrycn/actionformer_release) ⭐ 578 | 🐛 4 | 🌐 Python | 📅 2024-04-11]
 * **TadTR**: "End-to-end Temporal Action Detection with Transformer", arXiv, 2021 (*Alibaba*). \[[Paper](https://arxiv.org/abs/2106.10271)]\[[Code (in construction)](https://github.com/xlliu7/TadTR) ⭐ 166 | 🐛 9 | 🌐 Python | 📅 2023-02-19]
@@ -2225,7 +2225,7 @@ If you find this repository useful, please consider citing this list:
 
 ### Video Object Segmentation
 
-* **Cutie**: "Putting the Object Back into Video Object Segmentation", arXiv, 2023 (*UIUC*). \[[Paper](https://arxiv.org/abs/2310.12982)]\[[PyTorch](https://github.com/hkchengrex/Cutie) ⭐ 1,109 | 🐛 11 | 🌐 Python | 📅 2024-11-08]\[[Website](https://hkchengrex.com/Cutie/)]
+* **Cutie**: "Putting the Object Back into Video Object Segmentation", arXiv, 2023 (*UIUC*). \[[Paper](https://arxiv.org/abs/2310.12982)]\[[PyTorch](https://github.com/hkchengrex/Cutie) ⭐ 1,110 | 🐛 11 | 🌐 Python | 📅 2024-11-08]\[[Website](https://hkchengrex.com/Cutie/)]
 * **AOT**: "Associating Objects with Transformers for Video Object Segmentation", NeurIPS, 2021 (*Zhejiang University*). \[[Paper](https://arxiv.org/abs/2106.02638)]\[[PyTorch (yoxu515)](https://github.com/yoxu515/aot-benchmark) ⭐ 594 | 🐛 36 | 🌐 Python | 📅 2026-04-07]\[[Code (in construction)](https://github.com/z-x-yang/AOT) ⭐ 148 | 🐛 1 | 📅 2024-03-21]
 * **AOT**: "Associating Objects with Scalable Transformers for Video Object Segmentation", arXiv, 2022 (*Zhejiang University*). \[[Paper](https://arxiv.org/abs/2203.11442)]\[[PyTorch](https://github.com/yoxu515/aot-benchmark) ⭐ 594 | 🐛 36 | 🌐 Python | 📅 2026-04-07]
 * **MOSE**: "MOSE: A New Dataset for Video Object Segmentation in Complex Scenes", ICCV, 2023 (*NTU, Singapore*). \[[Paper](https://arxiv.org/abs/2302.01872)]\[[GitHub](https://github.com/henghuiding/MOSE-api) ⭐ 387 | 🐛 10 | 🌐 Python | 📅 2026-04-14]\[[Website](https://henghuiding.github.io/MOSE/)]
@@ -2261,7 +2261,7 @@ If you find this repository useful, please consider citing this list:
 ### Video Instance Segmentation
 
 * **VideoCutLER**: "VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation", arXiv, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2308.14710)]\[[PyTorch](https://github.com/facebookresearch/CutLER/tree/main/videocutler) ⭐ 1,074 | 🐛 21 | 🌐 Python | 📅 2026-04-14]
-* **VisTR**: "End-to-End Video Instance Segmentation with Transformers", CVPR, 2021 (*Meituan*). \[[Paper](https://arxiv.org/abs/2011.14503)]\[[PyTorch](https://github.com/Epiphqny/VisTR) ⭐ 758 | 🐛 26 | 🌐 Python | 📅 2021-07-15]
+* **VisTR**: "End-to-End Video Instance Segmentation with Transformers", CVPR, 2021 (*Meituan*). \[[Paper](https://arxiv.org/abs/2011.14503)]\[[PyTorch](https://github.com/Epiphqny/VisTR) ⭐ 759 | 🐛 26 | 🌐 Python | 📅 2021-07-15]
 * **MaskFreeVIS**: "Mask-Free Video Instance Segmentation", CVPR, 2023 (*ETHZ*). \[[Paper](https://arxiv.org/abs/2303.15904)]\[[PyTorch](https://github.com/SysCV/MaskFreeVis) ⭐ 369 | 🐛 9 | 🌐 Python | 📅 2024-04-09]
 * **SeqFormer**: "SeqFormer: Sequential Transformer for Video Instance Segmentation", ECCV, 2022 (*ByteDance*). \[[Paper](https://arxiv.org/abs/2112.08275)]\[[PyTorch](https://github.com/wjf5203/SeqFormer) ⭐ 351 | 🐛 10 | 🌐 Python | 📅 2022-08-02]
 * **MinVIS**: "MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training", NeurIPS, 2022 (*NVIDIA*). \[[Paper](https://arxiv.org/abs/2208.02245)]\[[PyTorch](https://github.com/NVlabs/MinVIS) ⭐ 277 | 🐛 7 | 🌐 Python | 📅 2024-12-04]
@@ -2308,7 +2308,7 @@ If you find this repository useful, please consider citing this list:
   * **DXFormer**: "Enhancing Transformer Backbone for Egocentric Video Action Segmentation", CVPRW, 2023 (*Northeastern University*). \[[Paper](https://arxiv.org/abs/2305.11365)]\[[Website (in construction)](https://www.sail-nu.com/dxformer)]
   * **TST**: "Temporal Segment Transformer for Action Segmentation", arXiv, 2023 (*Shanghai Tech*). \[[Paper](https://arxiv.org/abs/2302.13074)]
 * Video X Segmentation:
-  * **DEVA**: "Tracking Anything with Decoupled Video Segmentation", ICCV, 2023 (*UIUC*). \[[Paper](https://arxiv.org/abs/2309.03903)]\[[PyTorch](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) ⭐ 1,514 | 🐛 10 | 🌐 Python | 📅 2025-04-26]\[[Website](https://hkchengrex.com/Tracking-Anything-with-DEVA/)]
+  * **DEVA**: "Tracking Anything with Decoupled Video Segmentation", ICCV, 2023 (*UIUC*). \[[Paper](https://arxiv.org/abs/2309.03903)]\[[PyTorch](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) ⭐ 1,515 | 🐛 10 | 🌐 Python | 📅 2025-04-26]\[[Website](https://hkchengrex.com/Tracking-Anything-with-DEVA/)]
   * **SAM-PT**: "Segment Anything Meets Point Tracking", arXiv, 2023 (*ETHZ*). \[[Paper](https://arxiv.org/abs/2307.01197)]\[[Code (in construction)](https://github.com/SysCV/sam-pt) ⭐ 1,042 | 🐛 6 | 🌐 Python | 📅 2024-01-27]
   * **UniVS**: "UniVS: Unified and Universal Video Segmentation with Prompts as Queries", CVPR, 2024 (*OPPO*). \[[Paper](https://arxiv.org/abs/2402.18115)]\[[PyTorch](https://github.com/MinghanLi/UniVS) ⭐ 201 | 🐛 4 | 🌐 Python | 📅 2024-12-02]\[[Website](https://sites.google.com/view/unified-video-seg-univs)]
   * **Video-K-Net**: "Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation", CVPR, 2022 (*Peking University*). \[[Paper](https://arxiv.org/abs/2204.04656)]\[[PyTorch](https://github.com/lxtGH/Video-K-Net) ⭐ 158 | 🐛 2 | 🌐 Python | 📅 2023-08-19]
@@ -2349,7 +2349,7 @@ If you find this repository useful, please consider citing this list:
 * Video Hashing:
   * **BTH**: "Self-Supervised Video Hashing via Bidirectional Transformers", CVPR, 2021 (*Tsinghua*). \[[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Self-Supervised_Video_Hashing_via_Bidirectional_Transformers_CVPR_2021_paper.html)]\[[PyTorch](https://github.com/Lily1994/BTH) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2021-06-10]
 * Video-Language:
-  * **InternVideo**: "InternVideo: General Video Foundation Models via Generative and Discriminative Learning", arXiv, 2022 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2212.03191)]\[[Code (in construction)](https://github.com/OpenGVLab/InternVideo) ⭐ 2,395 | 🐛 147 | 🌐 Python | 📅 2026-07-02]\[[Website](https://opengvlab.shlab.org.cn/home)]
+  * **InternVideo**: "InternVideo: General Video Foundation Models via Generative and Discriminative Learning", arXiv, 2022 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2212.03191)]\[[Code (in construction)](https://github.com/OpenGVLab/InternVideo) ⭐ 2,396 | 🐛 147 | 🌐 Python | 📅 2026-07-02]\[[Website](https://opengvlab.shlab.org.cn/home)]
   * **X-CLIP**: "Expanding Language-Image Pretrained Models for General Video Recognition", ECCV, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2208.02816)]\[[PyTorch](https://github.com/microsoft/VideoX/tree/master/X-CLIP) ⭐ 1,071 | 🐛 32 | 🌐 Python | 📅 2024-06-03]
   * **ActionCLIP**: "ActionCLIP: A New Paradigm for Video Action Recognition", arXiv, 2022 (*Zhejiang University*). \[[Paper](https://arxiv.org/abs/2109.08472)]\[[PyTorch](https://github.com/sallymmx/ActionCLIP) ⭐ 616 | 🐛 35 | 🌐 Python | 📅 2023-12-06]
   * **LaViLa**: "Learning Video Representations from Large Language Models", CVPR, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2212.04501)]\[[PyTorch](https://github.com/facebookresearch/LaViLa) ⚠️ Archived]\[[Website](https://facebookresearch.github.io/LaViLa/)]
@@ -2412,8 +2412,8 @@ If you find this repository useful, please consider citing this list:
   * **ZERO**: "Zero Shot Open-ended Video Inference", arXiv, 2024 (*A\*STAR*). \[[Paper](https://arxiv.org/abs/2401.12471)]
 * X-supervised Learning:
   * **V-JEPA**: "Revisiting Feature Prediction for Learning Visual Representations from Video", arXiv, 2024 (*Meta*). \[[Paper](https://arxiv.org/abs/2404.08471)]\[[PyTorch](https://github.com/facebookresearch/jepa) ⭐ 4,155 | 🐛 65 | 🌐 Python | 📅 2025-02-27]\[[Website](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)]
-  * **VideoMAE**: "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training", NeurIPS, 2022 (*Tencent*). \[[Paper](https://arxiv.org/abs/2203.12602)]\[[Pytorch](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,797 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
-  * **VideoMAE-V2**: "VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking", CVPR, 2023 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2303.16727)]\[[PyTorch](https://github.com/OpenGVLab/VideoMAEv2) ⭐ 824 | 🐛 26 | 🌐 Python | 📅 2024-10-08]
+  * **VideoMAE**: "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training", NeurIPS, 2022 (*Tencent*). \[[Paper](https://arxiv.org/abs/2203.12602)]\[[Pytorch](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,798 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
+  * **VideoMAE-V2**: "VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking", CVPR, 2023 (*Shanghai AI Lab*). \[[Paper](https://arxiv.org/abs/2303.16727)]\[[PyTorch](https://github.com/OpenGVLab/VideoMAEv2) ⭐ 825 | 🐛 26 | 🌐 Python | 📅 2024-10-08]
   * **OmniMAE**: "OmniMAE: Single Model Masked Pretraining on Images and Videos", CVPR, 2023 (*Meta*). \[[Paper](https://arxiv.org/abs/2206.08356)]\[[PyTorch](https://github.com/facebookresearch/omnivore) ⚠️ Archived]
   * **MAE-ST**: "Masked Autoencoders As Spatiotemporal Learners", NeurIPS, 2022 (*Meta*). \[[Paper](https://arxiv.org/abs/2205.09113)]\[[PyTorch](https://github.com/facebookresearch/mae_st) ⭐ 373 | 🐛 14 | 🌐 Python | 📅 2026-08-17]
   * **BEVT**: "BEVT: BERT Pretraining of Video Transformers", CVPR, 2022 (*Microsoft*). \[[Paper](https://arxiv.org/abs/2112.01529)]\[[PyTorch](https://github.com/xyzforever/BEVT) ⭐ 161 | 🐛 3 | 🌐 Python | 📅 2022-07-19]
@@ -2521,7 +2521,7 @@ If you find this repository useful, please consider citing this list:
   * **MC-ViT**: "Memory Consolidation Enables Long-Context Video Understanding", arXiv, 2024 (*DeepMind*). \[[Paper](https://arxiv.org/abs/2402.05861)]
   * **VideoAgent**: "VideoAgent: Long-form Video Understanding with Large Language Model as Agent", arXiv, 2024 (*Stanford*). \[[Paper](https://arxiv.org/abs/2403.10517)]
 * Video Story:
-  * **YouTube-News-Timeline**: "Video Timeline Modeling For News Story Understanding", NeurIPS (Datasets and Benchmarks), 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2309.13446)]\[[GotHub](https://github.com/google-research/google-research/tree/master/video_timeline_modeling) ⭐ 38,832 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23]
+  * **YouTube-News-Timeline**: "Video Timeline Modeling For News Story Understanding", NeurIPS (Datasets and Benchmarks), 2023 (*Google*). \[[Paper](https://arxiv.org/abs/2309.13446)]\[[GotHub](https://github.com/google-research/google-research/tree/master/video_timeline_modeling) ⭐ 38,831 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23]
 * Analysis:
   * **VTCD**: "Understanding Video Transformers via Universal Concept Discovery", arXiv, 2024 (*Toyota*). \[[Paper](https://arxiv.org/abs/2401.10831)]\[[Website](https://yorkucvil.github.io/VTCD/)]
 
@@ -2541,11 +2541,11 @@ If you find this repository useful, please consider citing this list:
   * [Practical Introduction to Transformers (GitHub)](https://github.com/IbrahimSobh/Transformers) ⭐ 214 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-30
   * [Awesome Transformer Architecture Search (GitHub)](https://github.com/automl/awesome-transformer-search) ⭐ 269 | 🐛 0 | 📅 2023-06-15
   * [Transformer-in-Vision (GitHub)](https://github.com/DirtyHarryLYL/Transformer-in-Vision) ⭐ 1,345 | 🐛 0 | 📅 2023-08-22
-  * [Awesome Visual-Transformer (GitHub)](https://github.com/dk-liang/Awesome-Visual-Transformer) ⭐ 3,588 | 🐛 3 | 📅 2025-01-07
+  * [Awesome Visual-Transformer (GitHub)](https://github.com/dk-liang/Awesome-Visual-Transformer) ⭐ 3,587 | 🐛 3 | 📅 2025-01-07
   * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision) ⭐ 280 | 🐛 1 | 📅 2021-03-22
   * [Transformer-in-Computer-Vision (GitHub)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision) ⭐ 1,462 | 🐛 2 | 📅 2025-11-19
   * [Transformer Tutorial in ICASSP 2022)](https://transformer-tutorial.github.io/icassp2022/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
