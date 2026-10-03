@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "\"A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise\", arXiv, 2023 (Tencent). [Paper",
-          "description": "]GitHub]",
+          "description": "BradyFU/Awesome-Multimodal-Large-Language-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T02:35:51Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
             "stars": 18042,
@@ -41,7 +41,7 @@
         {
           "node_type": "item",
           "title": "\"A Survey on Multimodal Large Language Models\", arXiv, 2023 (USTC). [Paper",
-          "description": "][GitHub]",
+          "description": "BradyFU/Awesome-Multimodal-Large-Language-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T02:35:51Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
             "stars": 18042,
@@ -76,7 +76,7 @@
         {
           "node_type": "item",
           "title": "\"Video Understanding with Large Language Models: A Survey\", arXiv, 2023 (University of Rochester). [Paper",
-          "description": "][GitHub]",
+          "description": "yunlong10/Awesome-LLMs-for-Video-Understanding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -148,7 +148,7 @@
         {
           "node_type": "item",
           "title": "\"Vision + Language Applications: A Survey\", CVPRW, 2023 (Ritsumeikan University, Japan). [Paper",
-          "description": "][GitHub]",
+          "description": "Yutong-Zhou-cv/Awesome-Text-to-Image",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -180,7 +180,7 @@
         {
           "node_type": "item",
           "title": "\"A Survey on Video Diffusion Models\", arXiv, 2023 (Fudan). [Paper",
-          "description": "][GitHub]",
+          "description": "ChenHsing/Awesome-Video-Diffusion-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -193,7 +193,7 @@
             "open_issues": 1,
             "owner": "ChenHsing",
             "repo": "Awesome-Video-Diffusion-Models",
-            "stars": 2319,
+            "stars": 2320,
             "topics": [
               "awesome",
               "awesome-list",
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "\"When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models\", arXiv, 2024 (Oxford). [Paper",
-          "description": "][GitHub]",
+          "description": "ActiveVisionLab/Awesome-LLM-3D",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -233,7 +233,7 @@
         {
           "node_type": "item",
           "title": "\"Transformers in Medical Imaging: A Survey\", arXiv, 2022 (MBZUAI). [Paper",
-          "description": "][GitHub]",
+          "description": "fahadshamshad/awesome-transformers-in-medical-imaging",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -272,7 +272,7 @@
         {
           "node_type": "item",
           "title": "\"Controllable Generation with Text-to-Image Diffusion Models: A Survey\", arXiv, 2024 (Beijing University of Posts and Telecommunications). [Paper",
-          "description": "][GitHub]",
+          "description": "PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "\"Hallucination of Multimodal Large Language Models: A Survey\", arXiv, 2024 (NUS). [Paper",
-          "description": "][GitHub]",
+          "description": "showlab/Awesome-MLLM-Hallucination",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -323,7 +323,7 @@
         {
           "node_type": "item",
           "title": "\"Towards Open Vocabulary Learning: A Survey\", arXiv, 2023 (Peking). [Paper",
-          "description": "][GitHub]",
+          "description": "jianzongwu/Awesome-Open-Vocabulary",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -349,7 +349,7 @@
         {
           "node_type": "item",
           "title": "\"Transformer-Based Visual Segmentation: A Survey\", arXiv, 2023 (NTU, Singapore). [Paper",
-          "description": "][GitHub]",
+          "description": "lxtGH/Awesome-Segmentation-With-Transformer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -370,7 +370,7 @@
         {
           "node_type": "item",
           "title": "\"State Space Model for New-Generation Network Alternative to Transformers: A Survey\", arXiv, 2024 (Anhui University). [Paper",
-          "description": "][GitHub]",
+          "description": "Event-AHU/Mamba_State_Space_Model_Paper_List",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -399,7 +399,7 @@
         {
           "node_type": "item",
           "title": "\"A Survey on Vision Mamba: Models, Applications and Challenges\", arXiv, 2024 (HKUST). [Paper",
-          "description": "][GitHub]",
+          "description": "Ruixxxx/Awesome-Vision-Mamba-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -420,7 +420,7 @@
         {
           "node_type": "item",
           "title": "\"A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook\", arXiv, 2023 (Huawei). [Paper",
-          "description": "][GitHub]",
+          "description": "reasoning-survey/Awesome-Reasoning-Foundation-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -430,7 +430,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-03T23:13:35Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "reasoning-survey",
             "repo": "Awesome-Reasoning-Foundation-Models",
             "stars": 660,
@@ -449,7 +449,7 @@
         {
           "node_type": "item",
           "title": "\"Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey\", arXiv, 2024 (BIGAI). [Paper",
-          "description": "][GitHub]",
+          "description": "synbol/Awesome-Parameter-Efficient-Transfer-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -479,7 +479,7 @@
         {
           "node_type": "item",
           "title": "\"Foundational Models Defining a New Era in Vision: A Survey and Outlook\", arXiv, 2023 (MBZUAI). [Paper",
-          "description": "][GitHub]",
+          "description": "awaisrauf/Awesome-CV-Foundational-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,7 +500,7 @@
         {
           "node_type": "item",
           "title": "\"Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond\", arXiv, 2024 (GigaAI, China). [Paper",
-          "description": "][GitHub]",
+          "description": "GigaAI-research/General-World-Models-Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -521,7 +521,7 @@
         {
           "node_type": "item",
           "title": "\"Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models\", arXiv, 2024 (Lehigh University, Pennsylvania). [Paper",
-          "description": "][GitHub]",
+          "description": "lichao-sun/SoraReview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -542,7 +542,7 @@
         {
           "node_type": "item",
           "title": "\"Large Multimodal Agents: A Survey\", arXiv, 2024 (CUHK). [Paper",
-          "description": "][GitHub]",
+          "description": "jun0wanan/awesome-large-multimodal-agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -563,7 +563,7 @@
         {
           "node_type": "item",
           "title": "\"3D Vision with Transformers: A Survey\", arXiv, 2022 (MBZUAI). [Paper",
-          "description": "][GitHub]",
+          "description": "lahoud/3d-vision-transformers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -584,7 +584,7 @@
         {
           "node_type": "item",
           "title": "\"Efficient Multimodal Large Language Models: A Survey\", arXiv, 2024 (Tencent). [Paper",
-          "description": "][GitHub]",
+          "description": "swordlidev/Efficient-Multimodal-LLMs-Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -609,7 +609,7 @@
         {
           "node_type": "item",
           "title": "\"Masked Modeling for Self-supervised Representation Learning on Vision and Beyond\", arXiv, 2024 (Westlake University, China). [Paper",
-          "description": "][GitHub]",
+          "description": "Lupin1998/Awesome-MIM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -646,7 +646,7 @@
         {
           "node_type": "item",
           "title": "\"Transformers in Remote Sensing: A Survey\", arXiv, 2022 (MBZUAI). [Paper",
-          "description": "][Github]",
+          "description": "amandpkr/Transformer-in-Remote-Sensing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -667,7 +667,7 @@
         {
           "node_type": "item",
           "title": "\"A Survey on Multimodal Large Language Models for Autonomous Driving\", WACVW, 2024 (Purdue). [Paper",
-          "description": "][GitHub]",
+          "description": "IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -699,7 +699,7 @@
         {
           "node_type": "item",
           "title": "\"Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey\", arXiv, 2023 (Pengcheng Laboratory). [Paper",
-          "description": "][GitHub]",
+          "description": "wangxiao5791509/MultiModal_BigModels_Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -771,7 +771,7 @@
         {
           "node_type": "item",
           "title": "\"From Sora What We Can See: A Survey of Text-to-Video Generation\", arXiv, 2024 (Newcastle University, UK). [Paper",
-          "description": "][GitHub]",
+          "description": "soraw-ai/Awesome-Text-to-Video-Generation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -792,7 +792,7 @@
         {
           "node_type": "item",
           "title": "\"From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models\", arXiv, 2024 (UIUC). [Paper",
-          "description": "][GitHub]",
+          "description": "khuangaf/Awesome-Chart-Understanding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -820,7 +820,7 @@
         {
           "node_type": "item",
           "title": "\"Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review\", arXiv, 2023 (RWTH Aachen University, Germany). [Paper",
-          "description": "][GitHub]",
+          "description": "xmindflow/Awesome-Transformer-in-Medical-Imaging",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -852,7 +852,7 @@
         {
           "node_type": "item",
           "title": "\"A Survey of Visual Transformers\", TNNLS, 2023 (CAS). [Paper",
-          "description": "][GitHub]",
+          "description": "arekavandi/Transformer-SOD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -873,7 +873,7 @@
         {
           "node_type": "item",
           "title": "\"Foundation Models for Video Understanding: A Survey\", arXiv, 2024 (Aalborg University, Denmark). [Paper",
-          "description": "][GitHub]",
+          "description": "NeeluMadan/ViFM_Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -894,7 +894,7 @@
         {
           "node_type": "item",
           "title": "\"Vision Mamba: A Comprehensive Survey and Taxonomy\", arXiv, 2024 (Chongqing University). [Paper",
-          "description": "][GitHub]",
+          "description": "lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -936,7 +936,7 @@
         {
           "node_type": "item",
           "title": "\"Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey\", arXiv, 2023 (valeo.ai, France). [Paper",
-          "description": "][GitHub]",
+          "description": "valeoai/Awesome-Unsupervised-Object-Localization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -957,7 +957,7 @@
         {
           "node_type": "item",
           "title": "\"Video Diffusion Models: A Survey\", arXiv, 2024 (Bielefeld University, Germany). [Paper",
-          "description": "][GitHub]",
+          "description": "ndrwmlnk/Awesome-Video-Diffusion-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -978,7 +978,7 @@
         {
           "node_type": "item",
           "title": "\"Image Captioning In the Transformer Age\", arXiv, 2022 (Alibaba). [Paper",
-          "description": "][GitHub]",
+          "description": "SjokerLily/awesome-image-captioning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -999,7 +999,7 @@
         {
           "node_type": "item",
           "title": "\"Efficiency 360: Efficient Vision Transformers\", arXiv, 2023 (IBM). [Paper",
-          "description": "][GitHub]",
+          "description": "badripatro/efficient360",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2602,7 +2602,7 @@
                 {
                   "node_type": "item",
                   "title": "DeepViT: \"DeepViT: Towards Deeper Vision Transformer\", arXiv, 2021 (NUS + ByteDance). [Paper",
-                  "description": "][Code]",
+                  "description": "zhoudaquan/dvit_repo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3379,7 +3379,7 @@
                     "open_issues": 3,
                     "owner": "apple-aiml-research",
                     "repo": "ml-fastvit",
-                    "stars": 2038,
+                    "stars": 2039,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -3635,7 +3635,7 @@
                 {
                   "node_type": "item",
                   "title": "ConViT: \"ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases\", ICML, 2021 (Facebook). [Paper",
-                  "description": "][Code]",
+                  "description": "facebookresearch/convit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5414,7 +5414,7 @@
                 {
                   "node_type": "item",
                   "title": "CvT: \"CvT: Introducing Convolutions to Vision Transformers\", ICCV, 2021 (Microsoft). [Paper",
-                  "description": "][Code]",
+                  "description": "leoxiaobin/CvT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5669,7 +5669,7 @@
                     "open_issues": 275,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34403,
+                    "stars": 34402,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -5693,7 +5693,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32215,
+                    "stars": 32214,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -6263,7 +6263,7 @@
                     "open_issues": 8,
                     "owner": "google-research",
                     "repo": "syn-rep-learn",
-                    "stars": 327,
+                    "stars": 328,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -6284,7 +6284,7 @@
                     "open_issues": 8,
                     "owner": "google-research",
                     "repo": "syn-rep-learn",
-                    "stars": 327,
+                    "stars": 328,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -6305,7 +6305,7 @@
                     "open_issues": 8,
                     "owner": "google-research",
                     "repo": "syn-rep-learn",
-                    "stars": 327,
+                    "stars": 328,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -10182,7 +10182,7 @@
             {
               "node_type": "item",
               "title": "?: \"CNNs and Transformers Perceive Hybrid Images Similar to Humans\", arXiv, 2022 (Quintic AI, CA). [Paper",
-              "description": "][Code]",
+              "description": "aliborji/hybrid_images",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13147,7 +13147,7 @@
             {
               "node_type": "item",
               "title": "SwinNet: \"SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection\", TCSVT, 2021 (Anhui University). [Paper",
-              "description": "][Code]",
+              "description": "liuzywen/SwinNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13578,7 +13578,7 @@
                     "open_issues": 58,
                     "owner": "ZhangGongjie",
                     "repo": "Meta-DETR",
-                    "stars": 434,
+                    "stars": 435,
                     "topics": [
                       "computer-vision",
                       "few-shot-object-detection",
@@ -13690,7 +13690,7 @@
                 {
                   "node_type": "item",
                   "title": "Grounding-DINO-1.5: \"Grounding DINO 1.5: Advance the \"Edge\" of Open-Set Object Detection\", arXiv, 2024 (IDEA). [Paper",
-                  "description": "][Code]",
+                  "description": "IDEA-Research/Grounding-DINO-1.5-API",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -16446,7 +16446,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17742,
+                    "stars": 17743,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -16602,7 +16602,7 @@
                     "open_issues": 110,
                     "owner": "SysCV",
                     "repo": "sam-hq",
-                    "stars": 4262,
+                    "stars": 4264,
                     "topics": [
                       "high-quality",
                       "sam",
@@ -17613,7 +17613,7 @@
                     "open_issues": 15,
                     "owner": "cvlab-kaist",
                     "repo": "CAT-Seg",
-                    "stars": 396,
+                    "stars": 397,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -22116,7 +22116,7 @@
                 {
                   "node_type": "item",
                   "title": "STAM: \"An Image is Worth 16x16 Words, What is a Video Worth?\", arXiv, 2021 (Alibaba). [Paper",
-                  "description": "][Code]",
+                  "description": "Alibaba-MIIL/STAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -22481,7 +22481,7 @@
                 {
                   "node_type": "item",
                   "title": "BEAR: \"A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition\", ICCV, 2023 (UCF). [Paper",
-                  "description": "][GitHub]",
+                  "description": "AndongDeng/BEAR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -23468,7 +23468,7 @@
             {
               "node_type": "item",
               "title": "Vidpress-Soccer: \"Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection\", arXiv, 2021 (Baidu). [Paper",
-              "description": "][GitHub]",
+              "description": "baidu-research/vidpress-sports",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24236,7 +24236,7 @@
                 "open_issues": 9,
                 "owner": "SysCV",
                 "repo": "MaskFreeVIS",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "annotation-efficient-learning",
                   "cvpr2023",
@@ -24871,7 +24871,7 @@
                     "open_issues": 10,
                     "owner": "hkchengrex",
                     "repo": "Tracking-Anything-with-DEVA",
-                    "stars": 1518,
+                    "stars": 1519,
                     "topics": [
                       "deep-learning",
                       "iccv2023",
@@ -26224,7 +26224,7 @@
                     "open_issues": 65,
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4165,
+                    "stars": 4164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -27159,7 +27159,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38861,
+                    "stars": 38862,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -27180,7 +27180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:43:32.422Z",
+    "last_updated": "2026-10-03T04:32:07.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
