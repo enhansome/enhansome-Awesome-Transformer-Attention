@@ -19,7 +19,7 @@
             "open_issues": 116,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18043,
+            "stars": 18044,
             "topics": [
               "chain-of-thought",
               "in-context-learning",
@@ -54,7 +54,7 @@
             "open_issues": 116,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18043,
+            "stars": 18044,
             "topics": [
               "chain-of-thought",
               "in-context-learning",
@@ -430,7 +430,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-03T23:13:35Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "reasoning-survey",
             "repo": "Awesome-Reasoning-Foundation-Models",
             "stars": 660,
@@ -1421,7 +1421,7 @@
                     "open_issues": 202,
                     "owner": "microsoft",
                     "repo": "Swin-Transformer",
-                    "stars": 16095,
+                    "stars": 16096,
                     "topics": [
                       "ade20k",
                       "image-classification",
@@ -1451,7 +1451,7 @@
                     "open_issues": 202,
                     "owner": "microsoft",
                     "repo": "Swin-Transformer",
-                    "stars": 16095,
+                    "stars": 16096,
                     "topics": [
                       "ade20k",
                       "image-classification",
@@ -1502,7 +1502,7 @@
                     "open_issues": 127,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleClas",
-                    "stars": 5846,
+                    "stars": 5847,
                     "topics": [
                       "autoaugment",
                       "cutmix",
@@ -1623,7 +1623,7 @@
                     "open_issues": 42,
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1906,
+                    "stars": 1907,
                     "topics": [
                       "backbone",
                       "detection",
@@ -1651,7 +1651,7 @@
                     "open_issues": 42,
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1906,
+                    "stars": 1907,
                     "topics": [
                       "backbone",
                       "detection",
@@ -1679,7 +1679,7 @@
                     "open_issues": 34,
                     "owner": "microsoft",
                     "repo": "Cream",
-                    "stars": 1844,
+                    "stars": 1845,
                     "topics": [
                       "automl",
                       "efficiency",
@@ -1882,7 +1882,7 @@
                     "open_issues": 33,
                     "owner": "microsoft",
                     "repo": "CSWin-Transformer",
-                    "stars": 586,
+                    "stars": 587,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -1932,7 +1932,7 @@
                     "open_issues": 18,
                     "owner": "microsoft",
                     "repo": "Focal-Transformer",
-                    "stars": 559,
+                    "stars": 560,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -3400,7 +3400,7 @@
                     "open_issues": 34,
                     "owner": "microsoft",
                     "repo": "Cream",
-                    "stars": 1844,
+                    "stars": 1845,
                     "topics": [
                       "automl",
                       "efficiency",
@@ -3565,12 +3565,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Tutel MoE: Optimized Mixture-of-Experts Library, Support GptOss/DeepSeek/Kimi-K2/Qwen3 using FP8/NVFP4/MXFP4",
+                    "description": "Tutel MoE: Optimized Mixture-of-Experts Library, Support GLM/Kimi/Gpt/DeepSeek/Qwen using FP8/NVFP4/MXFP4",
                     "homepage": null,
                     "id": 393227808,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T05:55:02Z",
+                    "last_commit": "2026-10-04T05:37:48Z",
                     "open_issues": 55,
                     "owner": "microsoft",
                     "repo": "Tutel",
@@ -3909,7 +3909,7 @@
                     "open_issues": 8,
                     "owner": "microsoft",
                     "repo": "vision-longformer",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -5084,7 +5084,7 @@
                     "open_issues": 34,
                     "owner": "microsoft",
                     "repo": "Cream",
-                    "stars": 1844,
+                    "stars": 1845,
                     "topics": [
                       "automl",
                       "efficiency",
@@ -5669,7 +5669,7 @@
                     "open_issues": 275,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34405,
+                    "stars": 34408,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -8373,7 +8373,7 @@
                     "open_issues": 34,
                     "owner": "microsoft",
                     "repo": "Cream",
-                    "stars": 1844,
+                    "stars": 1845,
                     "topics": [
                       "automl",
                       "efficiency",
@@ -8534,7 +8534,7 @@
                     "open_issues": 14,
                     "owner": "YanjingLi0202",
                     "repo": "Q-ViT",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -10347,7 +10347,7 @@
                     "open_issues": 83,
                     "owner": "czczup",
                     "repo": "ViT-Adapter",
-                    "stars": 1503,
+                    "stars": 1504,
                     "topics": [
                       "adapter",
                       "object-detection",
@@ -12403,7 +12403,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 307,
+                "open_issues": 309,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -13654,7 +13654,7 @@
                     "open_issues": 421,
                     "owner": "AILab-CVC",
                     "repo": "YOLO-World",
-                    "stars": 6577,
+                    "stars": 6578,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -14728,7 +14728,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-28T08:48:09Z",
-                    "open_issues": 307,
+                    "open_issues": 309,
                     "owner": "google-research",
                     "repo": "scenic",
                     "stars": 3839,
@@ -15091,7 +15091,7 @@
                     "open_issues": 9,
                     "owner": "mlpc-ucsd",
                     "repo": "TESTR",
-                    "stars": 192,
+                    "stars": 193,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -16034,7 +16034,7 @@
                 "open_issues": 137,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8223,
+                "stars": 8224,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -16425,7 +16425,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54963,
+                    "stars": 54962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -16473,10 +16473,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T18:18:46Z",
-                    "open_issues": 377,
+                    "open_issues": 378,
                     "owner": "autogluon",
                     "repo": "autogluon",
-                    "stars": 10761,
+                    "stars": 10763,
                     "topics": [
                       "autogluon",
                       "automated-machine-learning",
@@ -20612,7 +20612,7 @@
                     "open_issues": 74,
                     "owner": "Jumpat",
                     "repo": "SegAnyGAussians",
-                    "stars": 1001,
+                    "stars": 999,
                     "topics": [
                       "3d-segmentation",
                       "computer-vision",
@@ -21573,7 +21573,7 @@
                     "open_issues": 6,
                     "owner": "uncbiag",
                     "repo": "SimpleClick",
-                    "stars": 260,
+                    "stars": 259,
                     "topics": [
                       "interactive-segmentation",
                       "masked-autoencoder",
@@ -21843,7 +21843,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-28T08:48:09Z",
-                    "open_issues": 307,
+                    "open_issues": 309,
                     "owner": "google-research",
                     "repo": "scenic",
                     "stars": 3839,
@@ -23005,7 +23005,7 @@
                     "open_issues": 45,
                     "owner": "Walter0807",
                     "repo": "MotionBERT",
-                    "stars": 1454,
+                    "stars": 1455,
                     "topics": [
                       "3d-pose-estimation",
                       "iccv2023",
@@ -23100,7 +23100,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 307,
+                "open_issues": 309,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -23129,7 +23129,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 307,
+                "open_issues": 309,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -23161,7 +23161,7 @@
                 "open_issues": 4,
                 "owner": "happyharrycn",
                 "repo": "actionformer_release",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "action-localization",
                   "computer-vision",
@@ -23189,7 +23189,7 @@
                 "open_issues": 4,
                 "owner": "happyharrycn",
                 "repo": "actionformer_release",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "action-localization",
                   "computer-vision",
@@ -23845,7 +23845,7 @@
                 "open_issues": 11,
                 "owner": "hkchengrex",
                 "repo": "Cutie",
-                "stars": 1113,
+                "stars": 1114,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -25378,7 +25378,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2401,
+                    "stars": 2402,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -25420,7 +25420,7 @@
                     "open_issues": 32,
                     "owner": "microsoft",
                     "repo": "VideoX",
-                    "stars": 1072,
+                    "stars": 1073,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -26056,7 +26056,7 @@
                     "id": 668642779,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2023-10-20T10:10:04Z",
+                    "last_commit": "2026-10-04T13:52:26Z",
                     "open_issues": 2,
                     "owner": "mondalanindya",
                     "repo": "MSQNet",
@@ -26224,7 +26224,7 @@
                     "open_issues": 65,
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4165,
+                    "stars": 4169,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -26245,7 +26245,7 @@
                     "open_issues": 51,
                     "owner": "MCG-NJU",
                     "repo": "VideoMAE",
-                    "stars": 1797,
+                    "stars": 1798,
                     "topics": [
                       "action-recognition",
                       "mae",
@@ -27156,10 +27156,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T21:03:49Z",
-                    "open_issues": 1996,
+                    "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38869,
+                    "stars": 38871,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -27180,7 +27180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:38:36.200Z",
+    "last_updated": "2026-10-04T17:51:54.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
