@@ -86,10 +86,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T07:07:06Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3293,
+            "stars": 3292,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.892Z"
@@ -140,7 +140,7 @@
             "open_issues": 5,
             "owner": "MenghaoGuo",
             "repo": "Awesome-Vision-Attentions",
-            "stars": 2841,
+            "stars": 2842,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.892Z"
@@ -1281,7 +1281,7 @@
                     "open_issues": 13,
                     "owner": "lucidrains",
                     "repo": "lambda-networks",
-                    "stars": 1529,
+                    "stars": 1528,
                     "topics": [
                       "artificial-intelligence",
                       "attention",
@@ -3349,7 +3349,7 @@
                     "open_issues": 108,
                     "owner": "mit-han-lab",
                     "repo": "efficientvit",
-                    "stars": 3367,
+                    "stars": 3368,
                     "topics": [
                       "deep-compression-autoencoder",
                       "efficient-diffusion-model",
@@ -3744,7 +3744,7 @@
                     "open_issues": 19,
                     "owner": "Tangshitao",
                     "repo": "QuadTreeAttention",
-                    "stars": 370,
+                    "stars": 371,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -5669,7 +5669,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34415,
+                    "stars": 34417,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -5693,7 +5693,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32213,
+                    "stars": 32212,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -8429,7 +8429,7 @@
                     "open_issues": 10,
                     "owner": "nbasyl",
                     "repo": "LLM-FP4",
-                    "stars": 226,
+                    "stars": 227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -10321,7 +10321,7 @@
                     "open_issues": 66,
                     "owner": "IDEA-Research",
                     "repo": "MaskDINO",
-                    "stars": 1567,
+                    "stars": 1568,
                     "topics": [
                       "instance-segmentation",
                       "object-detection",
@@ -11601,7 +11601,7 @@
                 "open_issues": 84,
                 "owner": "junjie18",
                 "repo": "CMT",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:28.892Z"
@@ -12406,7 +12406,7 @@
                 "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3841,
+                "stars": 3842,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -13612,7 +13612,7 @@
                     "open_issues": 1963,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32982,
+                    "stars": 32981,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -14731,7 +14731,7 @@
                     "open_issues": 311,
                     "owner": "google-research",
                     "repo": "scenic",
-                    "stars": 3841,
+                    "stars": 3842,
                     "topics": [
                       "attention",
                       "computer-vision",
@@ -16446,7 +16446,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17744,
+                    "stars": 17745,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -16630,7 +16630,7 @@
                     "open_issues": 108,
                     "owner": "mit-han-lab",
                     "repo": "efficientvit",
-                    "stars": 3367,
+                    "stars": 3368,
                     "topics": [
                       "deep-compression-autoencoder",
                       "efficient-diffusion-model",
@@ -17087,7 +17087,7 @@
                     "open_issues": 19,
                     "owner": "microsoft",
                     "repo": "X-Decoder",
-                    "stars": 1344,
+                    "stars": 1345,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -17108,7 +17108,7 @@
                     "open_issues": 5,
                     "owner": "timojl",
                     "repo": "clipseg",
-                    "stars": 1340,
+                    "stars": 1339,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -18665,7 +18665,7 @@
                     "open_issues": 31,
                     "owner": "google-research",
                     "repo": "pix2seq",
-                    "stars": 945,
+                    "stars": 944,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -19139,7 +19139,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2599,
+                    "stars": 2598,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -21846,7 +21846,7 @@
                     "open_issues": 311,
                     "owner": "google-research",
                     "repo": "scenic",
-                    "stars": 3841,
+                    "stars": 3842,
                     "topics": [
                       "attention",
                       "computer-vision",
@@ -21968,7 +21968,7 @@
                     "open_issues": 14,
                     "owner": "lucidrains",
                     "repo": "TimeSformer-pytorch",
-                    "stars": 731,
+                    "stars": 730,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -23103,7 +23103,7 @@
                 "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3841,
+                "stars": 3842,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -23132,7 +23132,7 @@
                 "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3841,
+                "stars": 3842,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -23845,7 +23845,7 @@
                 "open_issues": 11,
                 "owner": "hkchengrex",
                 "repo": "Cutie",
-                "stars": 1115,
+                "stars": 1116,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -27159,7 +27159,7 @@
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38874,
+                    "stars": 38877,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -27180,7 +27180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:41:36.213Z",
+    "last_updated": "2026-10-06T19:07:29.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
