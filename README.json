@@ -19,7 +19,7 @@
             "open_issues": 120,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18090,
+            "stars": 18091,
             "topics": [
               "chain-of-thought",
               "in-context-learning",
@@ -54,7 +54,7 @@
             "open_issues": 120,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18090,
+            "stars": 18091,
             "topics": [
               "chain-of-thought",
               "in-context-learning",
@@ -140,7 +140,7 @@
             "open_issues": 5,
             "owner": "MenghaoGuo",
             "repo": "Awesome-Vision-Attentions",
-            "stars": 2840,
+            "stars": 2841,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.892Z"
@@ -5622,7 +5622,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34637,
+                    "stars": 34639,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -5941,7 +5941,7 @@
                     "open_issues": 12,
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2094,
+                    "stars": 2093,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -9314,7 +9314,7 @@
                     "open_issues": 31,
                     "owner": "OpenGVLab",
                     "repo": "Vision-RWKV",
-                    "stars": 561,
+                    "stars": 560,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -10253,7 +10253,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4031,
+                    "stars": 4030,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -10708,7 +10708,7 @@
                     "open_issues": 40,
                     "owner": "xiuqhou",
                     "repo": "Salience-DETR",
-                    "stars": 228,
+                    "stars": 229,
                     "topics": [
                       "attention",
                       "cvpr2024",
@@ -11533,7 +11533,7 @@
                 "open_issues": 61,
                 "owner": "ZrrSkywalker",
                 "repo": "MonoDETR",
-                "stars": 450,
+                "stars": 451,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:28.892Z"
@@ -13167,7 +13167,7 @@
                     "open_issues": 937,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleDetection",
-                    "stars": 14481,
+                    "stars": 14484,
                     "topics": [
                       "blazeface",
                       "deepsort",
@@ -13565,7 +13565,7 @@
                     "open_issues": 1967,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 33046,
+                    "stars": 33047,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -15987,7 +15987,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8255,
+                "stars": 8256,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -16233,7 +16233,7 @@
                 "open_issues": 2,
                 "owner": "WJ-Chang-42",
                 "repo": "ASTransformer",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:28.892Z"
@@ -16378,7 +16378,7 @@
                     "open_issues": 598,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55167,
+                    "stars": 55171,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -16471,7 +16471,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8436,
+                    "stars": 8437,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -17082,7 +17082,7 @@
                     "open_issues": 16,
                     "owner": "isl-org",
                     "repo": "lang-seg",
-                    "stars": 832,
+                    "stars": 831,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -18231,7 +18231,7 @@
                     "open_issues": 164,
                     "owner": "facebookresearch",
                     "repo": "Mask2Former",
-                    "stars": 3412,
+                    "stars": 3411,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -18252,7 +18252,7 @@
                     "open_issues": 51,
                     "owner": "SHI-Labs",
                     "repo": "OneFormer",
-                    "stars": 1747,
+                    "stars": 1746,
                     "topics": [
                       "ade20k",
                       "cityscapes",
@@ -18808,7 +18808,7 @@
                     "open_issues": 19,
                     "owner": "SysCV",
                     "repo": "transfiner",
-                    "stars": 547,
+                    "stars": 548,
                     "topics": [
                       "cvpr",
                       "cvpr2022",
@@ -26178,7 +26178,7 @@
                     "open_issues": 64,
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4208,
+                    "stars": 4210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -26459,6 +26459,36 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "TimeT: \"Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations\", ICCV, 2023 (UvA). [Paper",
+                  "description": "][PyTorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations ICCV23",
+                    "homepage": null,
+                    "id": 662956124,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2024-12-30T08:44:02Z",
+                    "open_issues": 1,
+                    "owner": "SMSD75",
+                    "repo": "Timetuning",
+                    "stars": 32,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "iccv2023",
+                      "pytorch",
+                      "self-supervised-learning",
+                      "semantic-segmentation",
+                      "unsupervised-learning",
+                      "videos"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:13:28.892Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "WeakSVR: \"Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos\", CVPR, 2023 (ShanghaiTech). [Paper",
                   "description": "][PyTorch]",
                   "children": [],
@@ -26476,36 +26506,6 @@
                     "stars": 31,
                     "topics": [
                       "cvpr2023"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:13:28.892Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "TimeT: \"Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations\", ICCV, 2023 (UvA). [Paper",
-                  "description": "][PyTorch]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations ICCV23",
-                    "homepage": null,
-                    "id": 662956124,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-12-30T08:44:02Z",
-                    "open_issues": 1,
-                    "owner": "SMSD75",
-                    "repo": "Timetuning",
-                    "stars": 31,
-                    "topics": [
-                      "computer-vision",
-                      "deep-learning",
-                      "iccv2023",
-                      "pytorch",
-                      "self-supervised-learning",
-                      "semantic-segmentation",
-                      "unsupervised-learning",
-                      "videos"
                     ]
                   },
                   "first_seen": "2026-08-28T23:13:28.892Z"
@@ -27109,11 +27109,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T12:12:08Z",
+                    "last_commit": "2026-11-21T15:37:23Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39245,
+                    "stars": 39250,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -27134,7 +27134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:33:39.060Z",
+    "last_updated": "2026-11-21T20:15:59.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
